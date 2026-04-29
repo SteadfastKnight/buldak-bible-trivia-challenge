@@ -177,6 +177,11 @@ function reduce(s, a) {
       s.pendingQuestion = null;
       return s;
     }
+    case 'DISCARD_QUESTION': {
+      if (!s.pendingQuestion) return s;
+      s.pendingQuestion = null;
+      return s;
+    }
     case 'ANSWER_QUESTION': {
       if (!s.pendingQuestion) return s;
       const { playerId, difficulty, qId } = s.pendingQuestion;
@@ -506,6 +511,9 @@ function renderQuestionModal(s) {
           <button class="ghost" data-action="cancel-question">
             Anulează (revine în pool)
           </button>
+          <button class="ghost warn" data-action="discard-question">
+            🗑 Aruncă întrebarea (nu mai apare)
+          </button>
         </div>
       </div>
     </div>
@@ -676,6 +684,9 @@ function onClick(e) {
       break;
     case 'cancel-question':
       dispatch({ type: 'CANCEL_QUESTION' });
+      break;
+    case 'discard-question':
+      dispatch({ type: 'DISCARD_QUESTION' });
       break;
     case 'relief':
       dispatch({

@@ -39,7 +39,7 @@ window.TRIVIA = {
       "question": "Cine a construit corabia (arca)?",
       "answer": "Noe",
       "reference": "Geneza 6:14",
-      "quote": "Fă-ți o corabie din lemn de gofer (chiparos); corabia aceasta s-o împarți în cămăruțe și s-o tencuiești cu smoală pe dinăuntru și pe dinafară."
+      "quote": "Fă-ți o corabie din lemn de gofer; corabia aceasta s-o împarți în cămăruțe și s-o tencuiești cu smoală pe dinăuntru și pe din afară."
     },
     {
       "id": "easy-6",
@@ -71,7 +71,7 @@ window.TRIVIA = {
       "question": "Cum se numeau cei doi fii gemeni ai lui Isaac?",
       "answer": "Esau și Iacov",
       "reference": "Geneza 25:25-26",
-      "quote": "Cel dintâi a ieșit roșu de tot ca o manta de păr, și i-au pus numele Esau. Apoi a ieșit fratele său, care ținea cu mâna de călcâi pe Esau; și de aceea i-au pus numele Iacov."
+      "quote": "Cel dintâi a ieșit roșu de tot, ca o manta de păr, și de aceea i-au pus numele Esau. Apoi a ieșit fratele său, care ținea cu mâna de călcâi pe Esau; și de aceea i-au pus numele Iacov. Isaac era în vârstă de șaizeci de ani când s-au născut ei."
     },
     {
       "id": "easy-10",
@@ -87,7 +87,7 @@ window.TRIVIA = {
       "question": "Cine a scos poporul Israel din Egipt?",
       "answer": "Moise",
       "reference": "Exod 12:51",
-      "quote": "Și chiar în ziua aceea, Domnul a scos din țara Egiptului pe copiii lui Israel, după oștirile lor."
+      "quote": "Și chiar în ziua aceea, Domnul a scos din țara Egiptului pe copiii lui Israel, după oștile lor."
     },
     {
       "id": "easy-12",
@@ -103,7 +103,7 @@ window.TRIVIA = {
       "question": "Câte porunci a primit Moise pe muntele Sinai?",
       "answer": "Zece",
       "reference": "Exod 31:18",
-      "quote": "Când a sfârșit Domnul de vorbit cu Moise pe muntele Sinai, i-a dat cele două table ale mărturiei, table de piatră, scrise cu degetul lui Dumnezeu."
+      "quote": "Când a isprăvit Domnul de vorbit cu Moise pe muntele Sinai, i-a dat cele două table ale mărturiei, table de piatră, scrise cu degetul lui Dumnezeu."
     },
     {
       "id": "easy-14",
@@ -119,7 +119,7 @@ window.TRIVIA = {
       "question": "Cum se numea fratele lui Moise?",
       "answer": "Aaron",
       "reference": "Exod 7:1-2",
-      "quote": "Domnul a zis lui Moise: «Iată, te fac Dumnezeu pentru Faraon; și fratele tău Aaron va fi prorocul tău. Tu vei spune tot ce-ți voi porunci Eu, iar fratele tău Aaron va vorbi lui Faraon...»"
+      "quote": "Domnul a zis lui Moise: „Iată că te fac Dumnezeu pentru faraon; și fratele tău, Aaron, va fi prorocul tău. Tu vei spune tot ce-ți voi porunci Eu, iar fratele tău, Aaron, va vorbi lui faraon, ca să... »"
     },
     {
       "id": "easy-16",
@@ -143,7 +143,7 @@ window.TRIVIA = {
       "question": "Cine a fost cel mai puternic bărbat din Biblie?",
       "answer": "Samson",
       "reference": "Judecători 16:30",
-      "quote": "Și Samson a zis: «Să mor împreună cu filistenii!» S-a plecat cu toată puterea, și casa a căzut peste domnitori și peste tot poporul care era acolo. Cei pe care i-a prăpădit la moartea lui au fost mai mulți decât cei pe care-i omorâse în timpul vieții."
+      "quote": "Samson a zis: „Să mor împreună cu filistenii!” S-a plecat cu toată puterea, și casa a căzut peste domnitori și peste tot poporul care era acolo. Cei pe care i-a prăpădit la moartea lui au fost mai mulți decât cei pe care-i omorâse în timpul vieții."
     },
     {
       "id": "easy-19",
@@ -159,15 +159,15 @@ window.TRIVIA = {
       "question": "Cine a fost cel mai înțelept împărat al lui Israel?",
       "answer": "Solomon",
       "reference": "1 Împărați 3:12",
-      "quote": "voi face după cuvântul tău. Îți voi da o inimă înțeleaptă și pricepută, așa cum n-a fost nimeni înaintea ta și nu se va mai scula nimeni niciodată ca tine."
+      "quote": "voi face după cuvântul tău. Îți voi da o inimă înțeleaptă și pricepută, așa cum n-a fost nimeni înaintea ta și nu se va scula nimeni niciodată ca tine."
     },
     {
       "id": "easy-21",
       "number": 21,
       "question": "Cine a construit Templul din Ierusalim?",
       "answer": "Solomon",
-      "reference": "1 Împărați 6:14",
-      "quote": "Așa a zidit Solomon casa și a isprăvit-o."
+      "reference": "1 Împărați 6:9",
+      "quote": "După ce a isprăvit de zidit Casa, Solomon a acoperit-o cu scânduri și cu grinzi de cedru."
     },
     {
       "id": "easy-22",
@@ -175,14 +175,14 @@ window.TRIVIA = {
       "question": "Cine a fost aruncat în groapa cu lei?",
       "answer": "Daniel",
       "reference": "Daniel 6:16",
-      "quote": "Atunci, împăratul a poruncit să aducă pe Daniel și să-l arunce în groapa cu lei. Împăratul a luat cuvântul și a zis lui Daniel: «Dumnezeul tău, căruia Îi slujești necurmat, să te scape!»"
+      "quote": "Atunci împăratul a poruncit să aducă pe Daniel și să-l arunce în groapa cu lei. Împăratul a luat cuvântul și a zis lui Daniel: „Dumnezeul tău căruia necurmat Îi slujești să te scape!”"
     },
     {
       "id": "easy-23",
       "number": 23,
       "question": "Cine a fost înghițit de un pește mare?",
       "answer": "Iona",
-      "reference": "Iona 2:1",
+      "reference": "Iona 1:17",
       "quote": "Domnul a trimis un pește mare să înghită pe Iona, și Iona a stat în pântecele peștelui trei zile și trei nopți."
     },
     {
@@ -207,7 +207,7 @@ window.TRIVIA = {
       "question": "Câți ucenici (apostoli) a ales Isus?",
       "answer": "Doisprezece",
       "reference": "Matei 10:1",
-      "quote": "Apoi Isus a chemat pe cei doisprezece ucenici ai Săi și le-a dat putere să scoată duhurile necurate și să tămăduiască orice fel de boală și orice fel de neputință."
+      "quote": "Apoi Isus a chemat pe cei doisprezece ucenici ai Săi și le-a dat putere să scoată afară duhurile necurate și să tămăduiască orice fel de boală și orice fel de neputință."
     },
     {
       "id": "easy-27",
@@ -231,7 +231,7 @@ window.TRIVIA = {
       "question": "Cu câte pâini și cu cât pește a hrănit Isus mulțimea de cinci mii de oameni?",
       "answer": "Cinci pâini și doi pești",
       "reference": "Ioan 6:9",
-      "quote": "«Este aici un băiețaș care are cinci pâini de orz și doi pești; dar ce sunt acestea la atâția?»"
+      "quote": "„Este aici un băiețel care are cinci pâini de orz și doi pești; dar ce sunt acestea la atâția?”"
     },
     {
       "id": "easy-30",
@@ -239,7 +239,7 @@ window.TRIVIA = {
       "question": "Cine L-a vândut pe Isus pentru treizeci de arginți?",
       "answer": "Iuda Iscarioteanul",
       "reference": "Matei 26:15",
-      "quote": "și a zis: «Ce vreți să-mi dați, și-L voi da în mâinile voastre?» Ei i-au cântărit treizeci de arginți."
+      "quote": "și le-a zis: „Ce vreți să-mi dați, și-L voi da în mâinile voastre?” Ei i-au cântărit treizeci de arginți."
     },
     {
       "id": "easy-31",
@@ -263,7 +263,7 @@ window.TRIVIA = {
       "question": "După câte zile a înviat Isus din morți?",
       "answer": "A treia zi",
       "reference": "Luca 24:7",
-      "quote": "...spunând că Fiul omului trebuie să fie dat în mâinile păcătoșilor, să fie răstignit, și a treia zi să învie."
+      "quote": "când zicea că: «Fiul omului trebuie să fie dat în mâinile păcătoșilor, să fie răstignit, și a treia zi să învie.»"
     },
     {
       "id": "easy-34",
@@ -276,50 +276,210 @@ window.TRIVIA = {
     {
       "id": "easy-35",
       "number": 35,
+      "question": "În ce râu a fost botezat Isus?",
+      "answer": "În râul Iordan",
+      "reference": "Marcu 1:9",
+      "quote": "În vremea aceea, a venit Isus din Nazaretul Galileii și a fost botezat de Ioan în Iordan."
+    },
+    {
+      "id": "easy-36",
+      "number": 36,
       "question": "Care este prima carte a Bibliei?",
       "answer": "Geneza",
       "reference": "Începe cu Geneza 1:1",
       "quote": "La început, Dumnezeu a făcut cerurile și pământul."
     },
     {
-      "id": "easy-36",
-      "number": 36,
+      "id": "easy-37",
+      "number": 37,
       "question": "Care este ultima carte a Bibliei?",
       "answer": "Apocalipsa",
       "reference": "Se încheie cu Apocalipsa 22:21",
       "quote": "Harul Domnului Isus Hristos să fie cu voi cu toți! Amin."
     },
     {
-      "id": "easy-37",
-      "number": 37,
+      "id": "easy-38",
+      "number": 38,
       "question": "Câte cărți are Biblia (canonul protestant)?",
       "answer": "66 de cărți (39 în Vechiul Testament + 27 în Noul Testament).",
       "reference": "",
       "quote": ""
     },
     {
-      "id": "easy-38",
-      "number": 38,
-      "question": "Câte cărți are Vechiul Testament?",
-      "answer": "39 de cărți (de la Geneza la Maleahi).",
-      "reference": "",
-      "quote": ""
-    },
-    {
       "id": "easy-39",
       "number": 39,
-      "question": "Câte cărți are Noul Testament?",
-      "answer": "27 de cărți (de la Matei la Apocalipsa).",
-      "reference": "",
-      "quote": ""
-    },
-    {
-      "id": "easy-40",
-      "number": 40,
       "question": "Cine a fost luat la cer într-un car de foc, fără să moară?",
       "answer": "Ilie (proorocul)",
       "reference": "2 Împărați 2:11",
       "quote": "Pe când mergeau ei vorbind, iată că un car de foc și niște cai de foc i-au despărțit pe unul de altul, și Ilie s-a înălțat la cer într-un vârtej de vânt."
+    },
+    {
+      "id": "easy-40",
+      "number": 40,
+      "question": "Cine a fost primul fiu al lui Adam și Eva?",
+      "answer": "Cain",
+      "reference": "Geneza 4:1",
+      "quote": "Adam s-a împreunat cu nevasta sa Eva; ea a rămas însărcinată și a născut pe Cain. Și a zis: «Am căpătat un om cu ajutorul Domnului!»"
+    },
+    {
+      "id": "easy-41",
+      "number": 41,
+      "question": "Pe cine l-a omorât Cain?",
+      "answer": "Pe fratele său Abel",
+      "reference": "Geneza 4:8",
+      "quote": "Însă Cain a zis fratelui său Abel: «Haidem să ieșim la câmp.» Dar pe când erau la câmp, Cain s-a ridicat împotriva fratelui său Abel și l-a omorât."
+    },
+    {
+      "id": "easy-42",
+      "number": 42,
+      "question": "Cum se numeau cei trei fii ai lui Noe?",
+      "answer": "Sem, Ham și Iafet",
+      "reference": "Geneza 6:10",
+      "quote": "Noe a născut trei fii: Sem, Ham și Iafet."
+    },
+    {
+      "id": "easy-43",
+      "number": 43,
+      "question": "Cum se numea nepotul lui Avraam care a fost salvat din Sodoma?",
+      "answer": "Lot",
+      "reference": "Geneza 19:29",
+      "quote": "Când a nimicit Dumnezeu cetățile Câmpiei, Și-a adus aminte de Avraam; și a scăpat pe Lot din mijlocul prăpădului prin care a surpat din temelie cetățile unde își așezase Lot locuința."
+    },
+    {
+      "id": "easy-44",
+      "number": 44,
+      "question": "În ce s-a transformat soția lui Lot?",
+      "answer": "Într-un stâlp de sare",
+      "reference": "Geneza 19:26",
+      "quote": "Nevasta lui Lot s-a uitat înapoi și s-a prefăcut într-un stâlp de sare."
+    },
+    {
+      "id": "easy-45",
+      "number": 45,
+      "question": "Cine s-a luptat cu un înger toată noaptea?",
+      "answer": "Iacov",
+      "reference": "Geneza 32:24",
+      "quote": "Iacov însă a rămas singur. Atunci, un om s-a luptat cu el până în revărsatul zorilor."
+    },
+    {
+      "id": "easy-46",
+      "number": 46,
+      "question": "Care animal a vorbit cu Balaam?",
+      "answer": "Măgărița lui",
+      "reference": "Numeri 22:28",
+      "quote": "Domnul a deschis gura măgăriței, și ea a zis lui Balaam: „Ce ți-am făcut, de mai bătut de trei ori?”"
+    },
+    {
+      "id": "easy-47",
+      "number": 47,
+      "question": "Care este cel mai scurt verset din Biblie?",
+      "answer": "„Isus plângea.”",
+      "reference": "Ioan 11:35",
+      "quote": "Isus plângea."
+    },
+    {
+      "id": "easy-48",
+      "number": 48,
+      "question": "Care este cel mai cunoscut verset despre dragostea lui Dumnezeu?",
+      "answer": "Ioan 3:16",
+      "reference": "Ioan 3:16",
+      "quote": "Fiindcă atât de mult a iubit Dumnezeu lumea, că a dat pe singurul Lui Fiu, pentru ca oricine crede în El să nu piară, ci să aibă viața veșnică."
+    },
+    {
+      "id": "easy-49",
+      "number": 49,
+      "question": "Care Psalm este cel mai cunoscut, cel despre Domnul ca Păstor?",
+      "answer": "Psalmul 23",
+      "reference": "Psalmul 23:1",
+      "quote": "Domnul este Păstorul meu: nu voi duce lipsă de nimic."
+    },
+    {
+      "id": "easy-50",
+      "number": 50,
+      "question": "Care rugăciune i-a învățat Isus pe ucenicii Săi?",
+      "answer": "Tatăl nostru (Rugăciunea Domnească)",
+      "reference": "Matei 6:9",
+      "quote": "Iată dar cum trebuie să vă rugați: «Tatăl nostru care ești în ceruri! Sfințească-se Numele Tău;»"
+    },
+    {
+      "id": "easy-51",
+      "number": 51,
+      "question": "Câte cărți a scris Moise în Biblie?",
+      "answer": "Cinci (Pentateuhul: Geneza, Exod, Levitic, Numeri și Deuteronom)",
+      "reference": "",
+      "quote": ""
+    },
+    {
+      "id": "easy-52",
+      "number": 52,
+      "question": "Cine au fost răstigniți lângă Isus?",
+      "answer": "Doi tâlhari (răufăcători)",
+      "reference": "Luca 23:33",
+      "quote": "Când au ajuns la locul numit «Căpățâna», L-au răstignit acolo, pe El și pe făcătorii de rele: unul la dreapta, și altul la stânga."
+    },
+    {
+      "id": "easy-53",
+      "number": 53,
+      "question": "Pe ce munte a vrut Avraam să-l jertfească pe Isaac?",
+      "answer": "Pe muntele Moria",
+      "reference": "Geneza 22:2",
+      "quote": "Dumnezeu i-a zis: «Ia pe fiul tău, pe singurul tău fiu, pe care-l iubești, pe Isaac; du-te în țara Moria și adu-l ardere de tot acolo, pe un munte pe care ți-l voi spune.»"
+    },
+    {
+      "id": "easy-54",
+      "number": 54,
+      "question": "Care era hrana lui Ioan Botezătorul?",
+      "answer": "Lăcuste și miere sălbatică",
+      "reference": "Matei 3:4",
+      "quote": "Ioan purta o haină de păr de cămilă, și la mijloc era încins cu un brâu de curea. El se hrănea cu lăcuste și miere sălbatică."
+    },
+    {
+      "id": "easy-55",
+      "number": 55,
+      "question": "Cine a vândut dreptul de întâi-născut pentru o ciorbă de linte?",
+      "answer": "Esau",
+      "reference": "Geneza 25:33-34",
+      "quote": "Iacov a zis: «Jură-mi întâi.» Esau i-a jurat și astfel și-a vândut dreptul de întâi-născut lui Iacov. Atunci, Iacov a dat lui Esau pâine și ciorbă de linte."
+    },
+    {
+      "id": "easy-56",
+      "number": 56,
+      "question": "Ce daruri I-au adus magii Pruncului Isus?",
+      "answer": "Aur, tămâie și smirnă",
+      "reference": "Matei 2:11",
+      "quote": "Au intrat în casă, au văzut Pruncul cu Maria, mama Lui, s-au aruncat cu fața la pământ și I s-au închinat; apoi și-au deschis vistieriile și I-au adus daruri: aur, tămâie și smirnă."
+    },
+    {
+      "id": "easy-57",
+      "number": 57,
+      "question": "Care prooroc a fugit cu o corabie pentru a scăpa de chemarea lui Dumnezeu?",
+      "answer": "Iona (a încercat să fugă spre Tars)",
+      "reference": "Iona 1:3",
+      "quote": "Și Iona s-a sculat să fugă la Tars, departe de Fața Domnului. S-a coborât la Iafo și a găsit acolo o corabie care mergea la Tars."
+    },
+    {
+      "id": "easy-58",
+      "number": 58,
+      "question": "Cine a fost ucenicul care s-a îndoit de învierea lui Isus?",
+      "answer": "Toma (numit și „Necredinciosul”)",
+      "reference": "Ioan 20:25",
+      "quote": "«Dacă nu voi vedea în mâinile Lui semnul cuielor și dacă nu voi pune degetul meu în semnul cuielor și dacă nu voi pune mâna mea în coasta Lui, nu voi crede.»"
+    },
+    {
+      "id": "easy-59",
+      "number": 59,
+      "question": "Care a fost ultima rugăciune a lui Isus pe cruce?",
+      "answer": "„Tată, în mâinile Tale Îmi încredințez duhul!”",
+      "reference": "Luca 23:46",
+      "quote": "Isus a strigat cu glas tare: «Tată, în mâinile Tale Îmi încredințez duhul!» Și, când a zis aceste vorbe, Și-a dat duhul."
+    },
+    {
+      "id": "easy-60",
+      "number": 60,
+      "question": "De pe ce munte S-a înălțat Isus la cer?",
+      "answer": "De pe Muntele Măslinilor",
+      "reference": "Faptele Apostolilor 1:12",
+      "quote": "Atunci, ei s-au întors în Ierusalim din muntele numit al Măslinilor, care este lângă Ierusalim, departe cât un drum în ziua Sabatului."
     }
   ],
   "medium": [
@@ -358,290 +518,450 @@ window.TRIVIA = {
     {
       "id": "medium-5",
       "number": 5,
+      "question": "Cum se numea fiul născut lui Avraam din Hagar?",
+      "answer": "Ismael",
+      "reference": "Geneza 16:15",
+      "quote": "Agar a născut lui Avram un fiu; și Avram a pus fiului, pe care i l-a născut Agar, numele Ismael."
+    },
+    {
+      "id": "medium-6",
+      "number": 6,
+      "question": "Cine a fost mama lui Iosif și a lui Beniamin?",
+      "answer": "Rahela",
+      "reference": "Geneza 30:23-24",
+      "quote": "Ea a rămas însărcinată și a născut un fiu și a zis: «Mi-a luat Dumnezeu ocara!» Și i-a pus numele Iosif."
+    },
+    {
+      "id": "medium-7",
+      "number": 7,
       "question": "Câți fii a avut Iacov?",
       "answer": "Doisprezece (din care s-au tras cele douăsprezece seminții ale lui Israel)",
       "reference": "Geneza 35:22",
       "quote": "Fiii lui Iacov erau în număr de doisprezece."
     },
     {
-      "id": "medium-6",
-      "number": 6,
+      "id": "medium-8",
+      "number": 8,
       "question": "Cine a tâlcuit visele lui Faraon despre cele șapte vaci grase și cele șapte vaci slabe?",
       "answer": "Iosif",
       "reference": "Geneza 41:25",
-      "quote": "Iosif a zis lui Faraon: «Ce a visat Faraon însemnează un singur lucru: Dumnezeu a arătat mai dinainte lui Faraon ce are să facă.»"
+      "quote": "Iosif a zis lui faraon: „Ce a visat faraon însemnă un singur lucru: Dumnezeu a arătat mai dinainte lui faraon ce are să facă."
     },
     {
-      "id": "medium-7",
-      "number": 7,
+      "id": "medium-9",
+      "number": 9,
+      "question": "Cine a fost cel mai bătrân om menționat în Biblie și câți ani a trăit?",
+      "answer": "Metusala — 969 de ani",
+      "reference": "Geneza 5:27",
+      "quote": "Toate zilele lui Metusala au fost de nouă sute șaizeci și nouă de ani; apoi a murit."
+    },
+    {
+      "id": "medium-10",
+      "number": 10,
       "question": "În ce s-a transformat toiagul lui Moise când l-a aruncat la pământ?",
       "answer": "Într-un șarpe",
       "reference": "Exod 7:10",
       "quote": "Moise și Aaron s-au dus la Faraon și au făcut cum poruncise Domnul. Aaron și-a aruncat toiagul înaintea lui Faraon și înaintea slujitorilor lui; și toiagul s-a prefăcut într-un șarpe."
     },
     {
-      "id": "medium-8",
-      "number": 8,
+      "id": "medium-11",
+      "number": 11,
       "question": "Care era hrana cu care i-a hrănit Dumnezeu pe israeliți în pustie?",
       "answer": "Mana (și prepelițe)",
       "reference": "Exod 16:31",
       "quote": "Casa lui Israel a numit hrana aceasta «mană». Ea semăna cu bobul de coriandru; era albă și avea un gust de turtă cu miere."
     },
     {
-      "id": "medium-9",
-      "number": 9,
-      "question": "Cine a fost primul împărat al lui Israel?",
-      "answer": "Saul",
-      "reference": "1 Samuel 10:1",
-      "quote": "Samuel a luat sticluța cu untdelemn și a turnat-o pe capul lui Saul. Apoi l-a sărutat și a zis: «Nu te-a uns Domnul ca să fii căpetenia moștenirii Lui?»"
-    },
-    {
-      "id": "medium-10",
-      "number": 10,
-      "question": "Cine l-a uns pe David ca împărat al lui Israel?",
-      "answer": "Proorocul Samuel",
-      "reference": "1 Samuel 16:13",
-      "quote": "Samuel a luat cornul cu untdelemn și l-a uns în mijlocul fraților lui. Duhul Domnului a venit peste David, începând din ziua aceea și în cele următoare."
-    },
-    {
-      "id": "medium-11",
-      "number": 11,
-      "question": "Câte neveste și țiitoare a avut Solomon?",
-      "answer": "700 de neveste împărătese și 300 de țiitoare",
-      "reference": "1 Împărați 11:3",
-      "quote": "A avut de neveste șapte sute de crăiese împărătești și trei sute de țiitoare; și nevestele i-au abătut inima."
-    },
-    {
       "id": "medium-12",
       "number": 12,
-      "question": "Care erau numele celor trei tineri aruncați în cuptorul aprins?",
-      "answer": "Șadrac, Meșac și Abed-Nego",
-      "reference": "Daniel 3:23",
-      "quote": "Dar acești trei oameni: Șadrac, Meșac și Abed-Nego au căzut legați în mijlocul cuptorului aprins."
+      "question": "Pe unde au trecut israeliții ca pe uscat când fugeau din Egipt?",
+      "answer": "Prin Marea Roșie",
+      "reference": "Exod 14:21-22",
+      "quote": "Moise și-a întins mâna spre mare. Și Domnul a pus marea în mișcare printr-un vânt dinspre răsărit,... Copiii lui Israel au trecut prin mijlocul mării ca pe uscat, și apele stăteau ca un zid la dreapta și la stânga lor."
     },
     {
       "id": "medium-13",
       "number": 13,
-      "question": "Cine a fost regina evreică ce și-a salvat poporul de la nimicire?",
-      "answer": "Estera",
-      "reference": "Estera 7:3",
-      "quote": "Împărăteasa Estera a răspuns: «Dacă am căpătat trecere înaintea ta, împărate, și dacă găsește cu cale împăratul, dă-mi viața — iată cererea mea — și scapă pe poporul meu — iată dorința mea!»"
+      "question": "Cum se numea sora mai mare a lui Moise?",
+      "answer": "Maria (Mariam)",
+      "reference": "Exod 15:20",
+      "quote": "Maria, prorocița, sora lui Aaron, a luat în mână un timpan, și toate femeile au venit după ea, cu timpane și jucând."
     },
     {
       "id": "medium-14",
       "number": 14,
-      "question": "Cine a fost soțul moabitencei Rut?",
-      "answer": "Boaz",
-      "reference": "Rut 4:13",
-      "quote": "Boaz a luat pe Rut, care i-a fost nevastă, și el a intrat la ea. Domnul a făcut-o să zămislească, și ea a născut un fiu."
+      "question": "Cine a fost femeia care l-a omorât pe Sisera cu un țăruș de cort?",
+      "answer": "Iael",
+      "reference": "Judecători 4:21",
+      "quote": "Iael, nevasta lui Heber, a luat un țăruș de-al cortului, a pus mâna pe ciocan, s-a apropiat încet de el și i-a bătut țărușul în tâmplă, așa că a răspuns până în pământ. El adormise adânc și era rupt de oboseală; și a murit."
     },
     {
       "id": "medium-15",
       "number": 15,
+      "question": "Cu câți soldați l-a învins Ghedeon pe madianiți?",
+      "answer": "Trei sute (300)",
+      "reference": "Judecători 7:7",
+      "quote": "Și Domnul a zis lui Ghedeon: «Cu cei trei sute de oameni care au lipăit, vă voi mântui și voi da pe Madian în mâinile tale.»"
+    },
+    {
+      "id": "medium-16",
+      "number": 16,
       "question": "Cum se numea mama proorocului Samuel?",
       "answer": "Ana",
       "reference": "1 Samuel 1:20",
       "quote": "Când i s-au împlinit zilele, Ana a rămas însărcinată și a născut un fiu, căruia i-a pus numele Samuel; «căci», a zis ea, «de la Domnul l-am cerut»."
     },
     {
-      "id": "medium-16",
-      "number": 16,
-      "question": "În câte împărății s-a împărțit Israel după moartea lui Solomon?",
-      "answer": "Două (Iuda în sud și Israel în nord)",
-      "reference": "1 Împărați 12:19-20",
-      "quote": "Astfel s-a dezlipit Israel de casa lui David până în ziua de azi. Tot Israelul, auzind că Ieroboam s-a întors, a trimis să-l cheme la adunare și l-au făcut împărat peste tot Israelul."
-    },
-    {
       "id": "medium-17",
       "number": 17,
-      "question": "Care prooroc a primit mantaua lui Ilie după ce acesta a fost luat la cer?",
-      "answer": "Elisei",
-      "reference": "2 Împărați 2:13",
-      "quote": "Și a ridicat mantaua, căreia îi dăduse drumul Ilie, și s-a întors. Apoi s-a oprit pe malul Iordanului."
+      "question": "Cine a fost primul împărat al lui Israel?",
+      "answer": "Saul",
+      "reference": "1 Samuel 10:1",
+      "quote": "Samuel a luat sticluța cu untdelemn și a turnat-o pe capul lui Saul. Apoi l-a sărutat și a zis: «Nu te-a uns Domnul ca să fii căpetenia moștenirii Lui?»"
     },
     {
       "id": "medium-18",
       "number": 18,
+      "question": "Cine l-a uns pe David ca împărat al lui Israel?",
+      "answer": "Proorocul Samuel",
+      "reference": "1 Samuel 16:13",
+      "quote": "Samuel a luat cornul cu untdelemn și l-a uns în mijlocul fraților lui. Duhul Domnului a venit peste David, începând din ziua aceea și în cele următoare."
+    },
+    {
+      "id": "medium-19",
+      "number": 19,
+      "question": "Cine a scris cea mai mare parte din cartea Psalmilor?",
+      "answer": "David",
+      "reference": "Psalmul 23:1 (titlul indică „Un psalm al lui David”)",
+      "quote": "Domnul este Păstorul meu: nu voi duce lipsă de nimic."
+    },
+    {
+      "id": "medium-20",
+      "number": 20,
+      "question": "Câte neveste și țiitoare a avut Solomon?",
+      "answer": "700 de neveste împărătese și 300 de țiitoare",
+      "reference": "1 Împărați 11:3",
+      "quote": "A avut de neveste șapte sute de crăiese împărătești și trei sute de țiitoare; și nevestele i-au abătut inima."
+    },
+    {
+      "id": "medium-21",
+      "number": 21,
+      "question": "În câte împărății s-a împărțit Israel după moartea lui Solomon?",
+      "answer": "Două (Iuda în sud și Israel în nord)",
+      "reference": "1 Împărați 12:19-20",
+      "quote": "Astfel s-a dezlipit Israel de casa lui David până în ziua de azi. Tot Israelul, auzind că Ieroboam s-a întors, au trimis să-l cheme în adunare și l-au făcut împărat peste tot Israelul. Seminția lui Iuda a fost singura care a mers după casa lui David."
+    },
+    {
+      "id": "medium-22",
+      "number": 22,
+      "question": "Pe ce munte i-a înfruntat Ilie pe profeții lui Baal?",
+      "answer": "Pe Muntele Carmel",
+      "reference": "1 Împărați 18:19",
+      "quote": "Strânge acum pe tot Israelul la mine, la muntele Carmel, pe cei patru sute cincizeci de proroci ai lui Baal..."
+    },
+    {
+      "id": "medium-23",
+      "number": 23,
+      "question": "La ce văduvă a fost trimis Ilie pentru a fi hrănit în vremea secetei?",
+      "answer": "La văduva din Sarepta",
+      "reference": "1 Împărați 17:9",
+      "quote": "«Scoală-te, du-te la Sarepta care ține de Sidon și rămâi acolo. Iată că am poruncit acolo unei femei văduve să te hrănească.»"
+    },
+    {
+      "id": "medium-24",
+      "number": 24,
+      "question": "Care prooroc a primit mantaua lui Ilie după ce acesta a fost luat la cer?",
+      "answer": "Elisei",
+      "reference": "2 Împărați 2:13",
+      "quote": "și a ridicat mantaua, căreia îi dăduse drumul Ilie. Apoi s-a întors și s-a oprit pe malul Iordanului;"
+    },
+    {
+      "id": "medium-25",
+      "number": 25,
+      "question": "Care prooroc a vindecat lepra unui sirian (Naaman)?",
+      "answer": "Elisei",
+      "reference": "2 Împărați 5:10",
+      "quote": "Elisei a trimis să-i spună printr-un sol: «Du-te și scaldă-te de șapte ori în Iordan; și carnea ți se va face sănătoasă și vei fi curat.»"
+    },
+    {
+      "id": "medium-26",
+      "number": 26,
+      "question": "Cum se numea împăratul Babilonului care a cucerit Ierusalimul și a dus poporul lui Iuda în robie?",
+      "answer": "Nebucadnețar",
+      "reference": "Daniel 1:1",
+      "quote": "În al treilea an al domniei lui Ioiachim, împăratul lui Iuda, Nebucadnețar, împăratul Babilonului, a venit împotriva Ierusalimului și l-a împresurat."
+    },
+    {
+      "id": "medium-27",
+      "number": 27,
+      "question": "Care erau numele celor trei tineri aruncați în cuptorul aprins?",
+      "answer": "Șadrac, Meșac și Abed-Nego",
+      "reference": "Daniel 3:23",
+      "quote": "Dar acești trei oameni: Șadrac, Meșac și Abed-Nego au căzut legați în mijlocul cuptorului aprins."
+    },
+    {
+      "id": "medium-28",
+      "number": 28,
+      "question": "Cine a fost regina evreică ce și-a salvat poporul de la nimicire?",
+      "answer": "Estera",
+      "reference": "Estera 7:3",
+      "quote": "Împărăteasa Estera a răspuns: «Dacă am căpătat trecere înaintea ta, împărate, și dacă găsește cu cale împăratul, dă-mi viața — iată cererea mea — și scapă pe poporul meu — iată dorința mea!»"
+    },
+    {
+      "id": "medium-29",
+      "number": 29,
+      "question": "Cine a fost soțul moabitencei Rut?",
+      "answer": "Boaz",
+      "reference": "Rut 4:13",
+      "quote": "Boaz a luat pe Rut, care i-a fost nevastă, și el a intrat la ea. Domnul a făcut-o să zămislească, și ea a născut un fiu."
+    },
+    {
+      "id": "medium-30",
+      "number": 30,
       "question": "Câți prieteni au venit să-l mângâie pe Iov în necazul lui?",
       "answer": "Trei",
       "reference": "Iov 2:11",
       "quote": "Trei prieteni ai lui Iov, Elifaz din Teman, Bildad din Șuah și Țofar din Naama, au aflat de toate nenorocirile care-l loviseră."
     },
     {
-      "id": "medium-19",
-      "number": 19,
-      "question": "Cine a fost cel mai bătrân om menționat în Biblie și câți ani a trăit?",
-      "answer": "Metusala — 969 de ani",
-      "reference": "Geneza 5:27",
-      "quote": "Toate zilele lui Metușelah au fost de nouă sute șaizeci și nouă de ani; apoi a murit."
+      "id": "medium-31",
+      "number": 31,
+      "question": "Care prooroc a profețit despre nașterea unui copil dintr-o fecioară?",
+      "answer": "Isaia",
+      "reference": "Isaia 7:14",
+      "quote": "De aceea Domnul însuși vă va da un semn: «Iată, fecioara va rămâne însărcinată, va naște un fiu și-i va pune numele Emanuel.»"
     },
     {
-      "id": "medium-20",
-      "number": 20,
-      "question": "Pe unde au trecut israeliții ca pe uscat când fugeau din Egipt?",
-      "answer": "Prin Marea Roșie",
-      "reference": "Exod 14:21-22",
-      "quote": "Moise și-a întins mâna spre mare. Și Domnul a pus marea în mișcare printr-un vânt dinspre răsărit... Copiii lui Israel au trecut prin mijlocul mării ca pe uscat, și apele stăteau ca un zid la dreapta și la stânga lor."
+      "id": "medium-32",
+      "number": 32,
+      "question": "Câte cărți poetice (de înțelepciune) sunt în Vechiul Testament?",
+      "answer": "Cinci (Iov, Psalmi, Proverbe, Eclesiastul, Cântarea Cântărilor)",
+      "reference": "",
+      "quote": ""
     },
     {
-      "id": "medium-21",
-      "number": 21,
-      "question": "Ce i-a anunțat îngerul Mariei la Bunavestire?",
-      "answer": "Că va naște un Fiu, pe Isus, Fiul Celui Preaînalt",
-      "reference": "Luca 1:31-32",
-      "quote": "Și iată că vei rămâne însărcinată și vei naște un Fiu, căruia Îi vei pune numele Isus. El va fi mare și va fi chemat Fiul Celui Preaînalt."
+      "id": "medium-33",
+      "number": 33,
+      "question": "Care înger a fost trimis să vestească Mariei nașterea lui Isus?",
+      "answer": "Îngerul Gavril",
+      "reference": "Luca 1:26-27",
+      "quote": "În luna a șasea, îngerul Gabriel a fost trimis de Dumnezeu într-o cetate din Galileea, numită Nazaret, la o fecioară logodită cu un bărbat, numit Iosif, din casa lui David. Numele fecioarei era Maria."
     },
     {
-      "id": "medium-22",
-      "number": 22,
+      "id": "medium-34",
+      "number": 34,
       "question": "Cum se numea tatăl lui Ioan Botezătorul?",
       "answer": "Zaharia (preotul)",
       "reference": "Luca 1:13",
       "quote": "Dar îngerul i-a zis: «Nu te teme, Zahario; fiindcă rugăciunea ta a fost ascultată. Nevasta ta Elisabeta îți va naște un fiu, căruia îi vei pune numele Ioan.»"
     },
     {
-      "id": "medium-23",
-      "number": 23,
-      "question": "În ce oraș a crescut Isus?",
-      "answer": "Nazaret (din Galileea)",
-      "reference": "Luca 2:39-40",
-      "quote": "După ce au împlinit tot ce poruncea Legea Domnului, Iosif și Maria s-au întors în Galileea, în cetatea lor, Nazaret. Iar Pruncul creștea și Se întărea; era plin de înțelepciune, și harul lui Dumnezeu era peste El."
-    },
-    {
-      "id": "medium-24",
-      "number": 24,
-      "question": "Care ucenic a mers pe apă alături de Isus?",
-      "answer": "Petru",
-      "reference": "Matei 14:29",
-      "quote": "«Vino!», i-a zis Isus. Petru s-a coborât din corabie și a început să umble pe ape ca să meargă la Isus."
-    },
-    {
-      "id": "medium-25",
-      "number": 25,
-      "question": "Câte coșuri cu firimituri au rămas după înmulțirea pâinilor pentru cei cinci mii?",
-      "answer": "Douăsprezece",
-      "reference": "Matei 14:20",
-      "quote": "Toți au mâncat și s-au săturat; și s-au ridicat douăsprezece coșuri pline cu rămășițele de firimituri."
-    },
-    {
-      "id": "medium-26",
-      "number": 26,
-      "question": "Pe cine a înviat Isus din morți în Betania?",
-      "answer": "Pe Lazăr",
-      "reference": "Ioan 11:43-44",
-      "quote": "După ce a zis aceste vorbe, a strigat cu glas tare: «Lazăre, vino afară!» Și mortul a ieșit cu mâinile și picioarele legate cu fâșii de pânză și cu fața înfășurată cu un ștergar."
-    },
-    {
-      "id": "medium-27",
-      "number": 27,
-      "question": "Cine s-a urcat într-un sicomor pentru a-L vedea pe Isus?",
-      "answer": "Zacheu (vameșul)",
-      "reference": "Luca 19:4",
-      "quote": "A alergat înainte și s-a suit într-un dud ca să-L vadă; pentru că pe drumul acela avea să treacă."
-    },
-    {
-      "id": "medium-28",
-      "number": 28,
-      "question": "Cine a fost primul martir creștin?",
-      "answer": "Ștefan",
-      "reference": "Faptele Apostolilor 7:59-60",
-      "quote": "Și aruncau cu pietre în Ștefan, care se ruga și zicea: «Doamne Isuse, primește duhul meu!» Apoi a îngenuncheat și a strigat cu glas tare: «Doamne, nu le ține în seamă păcatul acesta!» Și după aceste vorbe, a adormit."
-    },
-    {
-      "id": "medium-29",
-      "number": 29,
-      "question": "Cum se numea apostolul Pavel înainte de convertirea sa?",
-      "answer": "Saul (din Tars)",
-      "reference": "Faptele Apostolilor 9:4-5",
-      "quote": "El a căzut la pământ și a auzit un glas care-i zicea: «Saule, Saule, pentru ce Mă prigonești?» «Cine ești Tu, Doamne?», a răspuns el. Și Domnul a zis: «Eu sunt Isus pe care-L prigonești.»"
-    },
-    {
-      "id": "medium-30",
-      "number": 30,
-      "question": "Care era numele tânărului ucenic al lui Pavel, căruia i-a scris două epistole?",
-      "answer": "Timotei",
-      "reference": "1 Timotei 1:2",
-      "quote": "către Timotei, adevăratul meu copil în credință: Har, îndurare și pace de la Dumnezeu, Tatăl nostru, și de la Hristos Isus, Domnul nostru!"
-    },
-    {
-      "id": "medium-31",
-      "number": 31,
-      "question": "Pe ce insulă a naufragiat Pavel pe drumul spre Roma?",
-      "answer": "Malta",
-      "reference": "Faptele Apostolilor 28:1",
-      "quote": "După ce am scăpat de primejdie, am aflat că ostrovul se chema Malta."
-    },
-    {
-      "id": "medium-32",
-      "number": 32,
-      "question": "Cine a scris cartea Apocalipsa?",
-      "answer": "Apostolul Ioan",
-      "reference": "Apocalipsa 1:9",
-      "quote": "Eu, Ioan, fratele vostru, care sunt părtaș cu voi la necaz, la Împărăție și la răbdarea în Isus Hristos, mă aflam în ostrovul care se cheamă Patmos, din pricina Cuvântului lui Dumnezeu și din pricina mărturiei lui Isus Hristos."
-    },
-    {
-      "id": "medium-33",
-      "number": 33,
-      "question": "În ce râu a fost botezat Isus?",
-      "answer": "În râul Iordan",
-      "reference": "Matei 3:13",
-      "quote": "Atunci a venit Isus din Galileea la Iordan, la Ioan, ca să fie botezat de el."
-    },
-    {
-      "id": "medium-34",
-      "number": 34,
+      "id": "medium-35",
+      "number": 35,
       "question": "Cum se numea mama lui Ioan Botezătorul?",
       "answer": "Elisabeta",
       "reference": "Luca 1:13",
       "quote": "«...Nevasta ta Elisabeta îți va naște un fiu, căruia îi vei pune numele Ioan.»"
     },
     {
-      "id": "medium-35",
-      "number": 35,
+      "id": "medium-36",
+      "number": 36,
+      "question": "În ce oraș a crescut Isus?",
+      "answer": "Nazaret (din Galileea)",
+      "reference": "Luca 2:39-40",
+      "quote": "După ce au împlinit tot ce poruncea Legea Domnului, Iosif și Maria s-au întors în Galileea, în cetatea lor, Nazaret. Iar Pruncul creștea și Se întărea; era plin de înțelepciune, și harul lui Dumnezeu era peste El."
+    },
+    {
+      "id": "medium-37",
+      "number": 37,
+      "question": "Câte zile a postit Isus în pustie înainte de a fi ispitit?",
+      "answer": "Patruzeci de zile și patruzeci de nopți",
+      "reference": "Matei 4:2",
+      "quote": "Acolo a postit patruzeci de zile și patruzeci de nopți; la urmă a flămânzit."
+    },
+    {
+      "id": "medium-38",
+      "number": 38,
+      "question": "Câte fericiri (binecuvântări) a rostit Isus în Predica de pe Munte?",
+      "answer": "Opt fericiri principale (sau nouă, dacă se include și versetul 11)",
+      "reference": "Matei 5:3",
+      "quote": "Ferice de cei săraci în duh, căci a lor este Împărăția cerurilor!"
+    },
+    {
+      "id": "medium-39",
+      "number": 39,
       "question": "Cine a venit noaptea la Isus pentru a-L întreba despre nașterea din nou?",
       "answer": "Nicodim (un fariseu, fruntaș al iudeilor)",
       "reference": "Ioan 3:1-2",
       "quote": "Între farisei era un om cu numele Nicodim, un fruntaș al iudeilor. Acesta a venit la Isus, noaptea, și I-a zis: «Învățătorule, știm că ești un Învățător venit de la Dumnezeu...»"
     },
     {
-      "id": "medium-36",
-      "number": 36,
-      "question": "Care ucenic a tăiat urechea slujitorului marelui preot, în grădina Ghetsimani?",
-      "answer": "Petru",
-      "reference": "Ioan 18:10",
-      "quote": "Simon Petru, care avea o sabie, a scos-o, a lovit pe robul marelui preot și i-a tăiat urechea dreaptă. Robul acela se numea Malhus."
-    },
-    {
-      "id": "medium-37",
-      "number": 37,
-      "question": "Care a fost prima minune a lui Isus?",
-      "answer": "Schimbarea apei în vin la nunta din Cana Galileii",
-      "reference": "Ioan 2:11",
-      "quote": "Acest început al semnelor Lui l-a făcut Isus în Cana din Galileea. El Și-a arătat slava Sa, și ucenicii Lui au crezut în El."
-    },
-    {
-      "id": "medium-38",
-      "number": 38,
-      "question": "Cine a dus crucea lui Isus o parte din drumul spre Golgota?",
-      "answer": "Simon din Cirena",
-      "reference": "Marcu 15:21",
-      "quote": "Au silit să ducă crucea lui Isus pe un trecător care se întorcea de la câmp, anume pe Simon din Cirena, tatăl lui Alexandru și al lui Ruf."
-    },
-    {
-      "id": "medium-39",
-      "number": 39,
+      "id": "medium-40",
+      "number": 40,
       "question": "Cum se numea femeia care L-a întâlnit pe Isus la fântâna lui Iacov, în Samaria?",
       "answer": "Femeia samariteancă (numele nu este precizat)",
       "reference": "Ioan 4:7",
       "quote": "A venit o femeie din Samaria să scoată apă. «Dă-Mi să beau», i-a zis Isus."
     },
     {
-      "id": "medium-40",
-      "number": 40,
-      "question": "Câte fericiri (binecuvântări) a rostit Isus în Predica de pe Munte?",
-      "answer": "Opt fericiri principale (sau nouă, dacă se include și versetul 11)",
-      "reference": "Matei 5:3",
-      "quote": "Ferice de cei săraci în duh, căci a lor este Împărăția cerurilor!"
+      "id": "medium-41",
+      "number": 41,
+      "question": "Care ucenic a mers pe apă alături de Isus?",
+      "answer": "Petru",
+      "reference": "Matei 14:29",
+      "quote": "«Vino!», i-a zis Isus. Petru s-a coborât din corabie și a început să umble pe ape ca să meargă la Isus."
+    },
+    {
+      "id": "medium-42",
+      "number": 42,
+      "question": "Câte coșuri cu firimituri au rămas după înmulțirea pâinilor pentru cei cinci mii?",
+      "answer": "Douăsprezece",
+      "reference": "Matei 14:20",
+      "quote": "Toți au mâncat și s-au săturat; și s-au ridicat douăsprezece coșuri pline cu rămășițele de firimituri."
+    },
+    {
+      "id": "medium-43",
+      "number": 43,
+      "question": "Cine erau cei trei ucenici care au mers cu Isus pe Muntele Schimbării la Față?",
+      "answer": "Petru, Iacov și Ioan",
+      "reference": "Matei 17:1",
+      "quote": "După șase zile, Isus a luat cu El pe Petru, Iacov și Ioan, fratele lui, și i-a dus la o parte pe un munte înalt."
+    },
+    {
+      "id": "medium-44",
+      "number": 44,
+      "question": "Cine erau cele două persoane apărute cu Isus pe Muntele Schimbării la Față?",
+      "answer": "Moise și Ilie",
+      "reference": "Matei 17:3",
+      "quote": "Și iată că li s-au arătat Moise și Ilie stând de vorbă cu El."
+    },
+    {
+      "id": "medium-45",
+      "number": 45,
+      "question": "Pe cine a înviat Isus din morți în Betania?",
+      "answer": "Pe Lazăr",
+      "reference": "Ioan 11:43-44",
+      "quote": "După ce a zis aceste vorbe, a strigat cu glas tare: «Lazăre, vino afară!» Și mortul a ieșit cu mâinile și picioarele legate cu fâșii de pânză și cu fața înfășurată cu un ștergar."
+    },
+    {
+      "id": "medium-46",
+      "number": 46,
+      "question": "Cine s-a urcat într-un sicomor pentru a-L vedea pe Isus?",
+      "answer": "Zacheu (vameșul)",
+      "reference": "Luca 19:4",
+      "quote": "A alergat înainte și s-a suit într-un dud ca să-L vadă; pentru că pe drumul acela avea să treacă."
+    },
+    {
+      "id": "medium-47",
+      "number": 47,
+      "question": "Care ucenic a tăiat urechea slujitorului marelui preot, în grădina Ghetsimani?",
+      "answer": "Petru",
+      "reference": "Ioan 18:10",
+      "quote": "Simon Petru, care avea o sabie, a scos-o, a lovit pe robul marelui preot și i-a tăiat urechea dreaptă. Robul acela se numea Malhu."
+    },
+    {
+      "id": "medium-48",
+      "number": 48,
+      "question": "Cine a dus crucea lui Isus o parte din drumul spre Golgota?",
+      "answer": "Simon din Cirena",
+      "reference": "Marcu 15:21",
+      "quote": "Au silit să ducă crucea lui Isus pe un trecător care se întorcea de la câmp, numit Simon din Cirena, tatăl lui Alexandru și al lui Ruf."
+    },
+    {
+      "id": "medium-49",
+      "number": 49,
+      "question": "Cum se numea guvernatorul roman care a încuviințat răstignirea lui Isus?",
+      "answer": "Pilat din Pont",
+      "reference": "Matei 27:2",
+      "quote": "După ce L-au legat, L-au dus și L-au dat în mâna dregătorului Pilat din Pont."
+    },
+    {
+      "id": "medium-50",
+      "number": 50,
+      "question": "Cine erau cei doi ucenici cu care a vorbit Isus pe drumul spre Emaus?",
+      "answer": "Cleopa și un alt ucenic (al cărui nume nu este menționat)",
+      "reference": "Luca 24:18",
+      "quote": "Drept răspuns, unul din ei, numit Cleopa, I-a zis: «Tu ești singurul străin aici în Ierusalim, de nu știi ce s-a întâmplat în el zilele acestea?»"
+    },
+    {
+      "id": "medium-51",
+      "number": 51,
+      "question": "Care ucenic era numit „cel pe care îl iubea Isus”?",
+      "answer": "Apostolul Ioan",
+      "reference": "Ioan 13:23",
+      "quote": "Unul din ucenici, acela pe care-l iubea Isus, stătea la masă culcat pe sânul lui Isus."
+    },
+    {
+      "id": "medium-52",
+      "number": 52,
+      "question": "Cine a fost primul martir creștin?",
+      "answer": "Ștefan",
+      "reference": "Faptele Apostolilor 7:59-60",
+      "quote": "Și aruncau cu pietre în Ștefan, care se ruga și zicea: «Doamne Isuse, primește duhul meu!» Apoi a îngenuncheat și a strigat cu glas tare: «Doamne, nu le ține în seamă păcatul acesta!» Și după aceste vorbe, a adormit."
+    },
+    {
+      "id": "medium-53",
+      "number": 53,
+      "question": "Pe cine a vindecat Petru la poarta Templului?",
+      "answer": "Pe un olog din naștere",
+      "reference": "Faptele Apostolilor 3:6-7",
+      "quote": "Atunci, Petru i-a zis: «Argint și aur n-am; dar ce am, îți dau: în Numele lui Isus Hristos din Nazaret, scoală-te și umblă!» L-a apucat de mâna dreaptă și l-a ridicat în sus."
+    },
+    {
+      "id": "medium-54",
+      "number": 54,
+      "question": "Pe cine a botezat Filip pe drumul spre Gaza?",
+      "answer": "Pe famenul (eunucul) etiopian",
+      "reference": "Faptele Apostolilor 8:38",
+      "quote": "A poruncit să stea carul, s-au coborât amândoi în apă, și Filip a botezat pe famen."
+    },
+    {
+      "id": "medium-55",
+      "number": 55,
+      "question": "Cum se numea apostolul Pavel înainte de convertirea sa?",
+      "answer": "Saul (din Tars)",
+      "reference": "Faptele Apostolilor 9:4-5",
+      "quote": "El a căzut la pământ și a auzit un glas care-i zicea: «Saule, Saule, pentru ce Mă prigonești?» «Cine ești Tu, Doamne?», a răspuns el. Și Domnul a zis: «Eu sunt Isus pe care-L prigonești.»"
+    },
+    {
+      "id": "medium-56",
+      "number": 56,
+      "question": "Care era numele tânărului ucenic al lui Pavel, căruia i-a scris două epistole?",
+      "answer": "Timotei",
+      "reference": "1 Timotei 1:2",
+      "quote": "către Timotei, adevăratul meu copil în credință: Har, îndurare și pace de la Dumnezeu, Tatăl nostru, și de la Hristos Isus, Domnul nostru!"
+    },
+    {
+      "id": "medium-57",
+      "number": 57,
+      "question": "Cum se numea femeia care vindea purpură din Tiatira și a primit Evanghelia prin Pavel?",
+      "answer": "Lidia",
+      "reference": "Faptele Apostolilor 16:14",
+      "quote": "Una din ele, numită Lidia, vânzătoare de purpură din cetatea Tiatira, era o femeie temătoare de Dumnezeu și asculta. Domnul i-a deschis inima ca să ia aminte la cele ce spunea Pavel."
+    },
+    {
+      "id": "medium-58",
+      "number": 58,
+      "question": "Pe ce insulă a naufragiat Pavel pe drumul spre Roma?",
+      "answer": "Malta",
+      "reference": "Faptele Apostolilor 28:1",
+      "quote": "După ce am scăpat de primejdie, am aflat că ostrovul se chema Malta."
+    },
+    {
+      "id": "medium-59",
+      "number": 59,
+      "question": "Cum se numeau cei doi apostoli frați, fiii lui Zebedei?",
+      "answer": "Iacov și Ioan",
+      "reference": "Matei 4:21",
+      "quote": "De acolo a mers mai departe și a văzut pe alți doi frați: pe Iacov, fiul lui Zebedei, și pe Ioan, fratele lui, care erau într-o corabie cu tatăl lor Zebedei și își cârpeau mrejele."
+    },
+    {
+      "id": "medium-60",
+      "number": 60,
+      "question": "Cine a scris cartea Apocalipsa?",
+      "answer": "Apostolul Ioan",
+      "reference": "Apocalipsa 1:9",
+      "quote": "Eu, Ioan, fratele vostru, care sunt părtaș cu voi la necaz, la Împărăție și la răbdarea în Isus Hristos, mă aflam în ostrovul care se cheamă Patmos, din pricina Cuvântului lui Dumnezeu și din pricina mărturiei lui Isus Hristos."
     }
   ],
   "hard": [
@@ -651,319 +971,479 @@ window.TRIVIA = {
       "question": "Cine a fost tatăl lui Metusala?",
       "answer": "Enoh",
       "reference": "Geneza 5:21",
-      "quote": "La vârsta de șaizeci și cinci de ani, Enoh a născut pe Metușelah."
+      "quote": "La vârsta de șaizeci și cinci de ani, Enoh a născut pe Metusala."
     },
     {
       "id": "hard-2",
       "number": 2,
+      "question": "Care erau numele celor patru râuri care izvorau din Eden?",
+      "answer": "Pison, Ghihon, Hidechel (Tigru) și Eufrat",
+      "reference": "Geneza 2:11-14",
+      "quote": "Numele celui dintâi este Pison; el înconjoară... Numele râului al doilea este Ghihon; el înconjoară... Numele celui de al treilea este Hidechel: el curge la răsăritul Asiriei. Al patrulea râu este Eufratul."
+    },
+    {
+      "id": "hard-3",
+      "number": 3,
       "question": "În ce țară a fugit Cain după ce l-a omorât pe Abel?",
       "answer": "În țara Nod, la răsărit de Eden",
       "reference": "Geneza 4:16",
       "quote": "Apoi, Cain a ieșit din fața Domnului și a locuit în țara Nod, la răsărit de Eden."
     },
     {
-      "id": "hard-3",
-      "number": 3,
+      "id": "hard-4",
+      "number": 4,
       "question": "Cum se numea preotul Dumnezeului Celui Preaînalt care l-a binecuvântat pe Avram și i-a adus pâine și vin?",
       "answer": "Melhisedec, împăratul Salemului",
       "reference": "Geneza 14:18",
       "quote": "Melhisedec, împăratul Salemului, a adus pâine și vin: el era preot al Dumnezeului celui Preaînalt."
     },
     {
-      "id": "hard-4",
-      "number": 4,
+      "id": "hard-5",
+      "number": 5,
+      "question": "Cine este primul om din Biblie numit „prooroc”?",
+      "answer": "Avraam",
+      "reference": "Geneza 20:7",
+      "quote": "Acum, dă omului nevasta înapoi, căci el este proroc, se va ruga pentru tine și vei trăi."
+    },
+    {
+      "id": "hard-6",
+      "number": 6,
       "question": "Cum se numea soția egipteancă a lui Iosif?",
       "answer": "Asnat",
       "reference": "Geneza 41:45",
       "quote": "Faraon a pus lui Iosif numele: Țafnat-Paeneah și i-a dat de nevastă pe Asnat, fata lui Poti-Fera, preotul lui On."
     },
     {
-      "id": "hard-5",
-      "number": 5,
+      "id": "hard-7",
+      "number": 7,
       "question": "Care era numele țării lui Esau, cunoscut și ca Edom?",
       "answer": "Seir / Edom",
       "reference": "Geneza 36:8",
-      "quote": "Esau s-a așezat în muntele Seir. Esau înseamnă Edom."
+      "quote": "Esau s-a așezat pe muntele Seir. Esau înseamnă Edom."
     },
     {
-      "id": "hard-6",
-      "number": 6,
+      "id": "hard-8",
+      "number": 8,
+      "question": "Cum se numea mama copiilor Ruben, Simeon, Levi și Iuda?",
+      "answer": "Lea",
+      "reference": "Geneza 29:32",
+      "quote": "Lea a rămas însărcinată și a născut un fiu, căruia i-a pus numele Ruben..."
+    },
+    {
+      "id": "hard-9",
+      "number": 9,
       "question": "Cum se numeau părinții lui Moise?",
       "answer": "Amram (tatăl) și Iochebed (mama)",
       "reference": "Exod 6:20",
       "quote": "Amram a luat de nevastă pe mătușa sa Iochebed; și ea i-a născut pe Aaron și pe Moise."
     },
     {
-      "id": "hard-7",
-      "number": 7,
+      "id": "hard-10",
+      "number": 10,
+      "question": "Cum se numea soția lui Moise?",
+      "answer": "Sefora",
+      "reference": "Exod 2:21",
+      "quote": "Moise s-a hotărât să locuiască la omul acela, care i-a dat de nevastă pe fiică-sa, Sefora."
+    },
+    {
+      "id": "hard-11",
+      "number": 11,
+      "question": "Cine a fost socrul lui Moise?",
+      "answer": "Ietro (numit și Reuel), preotul Madianului",
+      "reference": "Exod 3:1",
+      "quote": "Moise păștea turma socrului său Ietro, preotul Madianului."
+    },
+    {
+      "id": "hard-12",
+      "number": 12,
+      "question": "Cum S-a descoperit Domnul lui Moise la rugul aprins?",
+      "answer": "Ca „EU SUNT CEL CE SUNT”",
+      "reference": "Exod 3:14",
+      "quote": "Dumnezeu a zis lui Moise: «EU SUNT CEL CE SUNT.» Și a adăugat: «Vei răspunde copiilor lui Israel astfel: ‹Cel ce Se numește «EU SUNT» m-a trimis la voi.›»"
+    },
+    {
+      "id": "hard-13",
+      "number": 13,
       "question": "Care doi dintre cei doisprezece iscoade au adus o veste bună despre țara Canaan?",
       "answer": "Iosua (fiul lui Nun) și Caleb (fiul lui Iefune)",
       "reference": "Numeri 14:6-7",
       "quote": "Și, dintre cei ce iscodiseră țara, Iosua, fiul lui Nun, și Caleb, fiul lui Iefune, și-au rupt hainele și au vorbit astfel întregii adunări a copiilor lui Israel: «Țara pe care am străbătut-o noi ca s-o iscodim este o țară foarte bună, minunată.»"
     },
     {
-      "id": "hard-8",
-      "number": 8,
+      "id": "hard-14",
+      "number": 14,
       "question": "Cum se numea proorocul angajat de Balac să blesteme poporul Israel?",
       "answer": "Balaam",
       "reference": "Numeri 22:5",
-      "quote": "El a trimis soli la Balaam, fiul lui Beor... ca să-l cheme și să-i spună: «Iată, un popor a ieșit din Egipt; acoperă fața pământului și s-a așezat în fața mea.»"
+      "quote": "El a trimis soli la Balaam, fiul lui Beor, la Petor... ca să-l cheme și să-i spună: «Iată, un popor a ieșit din Egipt, acoperă fața pământului și s-a așezat în fața mea."
     },
     {
-      "id": "hard-9",
-      "number": 9,
+      "id": "hard-15",
+      "number": 15,
+      "question": "Câți ani au rătăcit israeliții prin pustie înainte de a intra în Țara Promisă?",
+      "answer": "Patruzeci de ani",
+      "reference": "Numeri 14:33-34",
+      "quote": "Și copiii voștri vor rătăci patruzeci de ani în pustiu și vor ispăși astfel păcatele voastre, până ce toate trupurile voastre moarte vor cădea în pustiu... patruzeci de ani veți purta pedeapsa fărădelegilor voastre; adică un an de fiecare zi."
+    },
+    {
+      "id": "hard-16",
+      "number": 16,
+      "question": "Pe ce munte a murit Moise și a fost îngropat de Domnul?",
+      "answer": "Pe muntele Nebo (vârful Pisga)",
+      "reference": "Deuteronom 34:1, 5-6",
+      "quote": "Moise s-a suit din câmpia Moabului pe muntele Nebo, pe vârful muntelui Pisga, în fața Ierihonului... Moise, robul Domnului, a murit acolo, în țara Moabului, după porunca Domnului. Și Domnul l-a îngropat în vale, în țara Moabului, față în față cu Bet-Peor."
+    },
+    {
+      "id": "hard-17",
+      "number": 17,
       "question": "Cum se numea curva din Ierihon care a ascuns iscoadele lui Iosua?",
       "answer": "Rahav",
       "reference": "Iosua 2:1",
-      "quote": "Iosua, fiul lui Nun, a trimis în ascuns din Sitim doi oameni, ca iscoade... S-au dus și au intrat în casa unei curve, care se chema Rahav, și s-au culcat acolo."
+      "quote": "Iosua, fiul lui Nun, a trimis în ascuns din Sitim doi oameni, ca iscoade, zicându-le: «Duceți-vă de cercetați țara și mai ales Ierihonul.» Cei doi oameni au plecat și au ajuns în casa unei curve, care se chema Rahav, și s-au culcat acolo."
     },
     {
-      "id": "hard-10",
-      "number": 10,
+      "id": "hard-18",
+      "number": 18,
+      "question": "Care a fost a doua cetate cucerită de israeliți după Ierihon?",
+      "answer": "Ai",
+      "reference": "Iosua 8:1",
+      "quote": "Domnul a zis lui Iosua: «Nu te teme și nu te înspăimânta! Ia cu tine pe toți oamenii de război, scoală-te, suie-te împotriva cetății Ai. Iată că îți dau în mâinile tale pe împăratul din Ai și pe poporul lui, cetatea lui și țara lui.»"
+    },
+    {
+      "id": "hard-19",
+      "number": 19,
       "question": "Cine a fost judecătorul stângaci care l-a omorât pe Eglon, împăratul Moabului?",
       "answer": "Ehud",
       "reference": "Judecători 3:15",
       "quote": "Copiii lui Israel au strigat către Domnul, și Domnul le-a ridicat un izbăvitor, pe Ehud, fiul lui Ghera, beniamitul, care nu se slujea de mâna dreaptă."
     },
     {
-      "id": "hard-11",
-      "number": 11,
+      "id": "hard-20",
+      "number": 20,
       "question": "Cum se numea singura femeie judecător din Israel?",
       "answer": "Debora (proorocița)",
       "reference": "Judecători 4:4",
       "quote": "Pe vremea aceea, judecător în Israel era Debora, prorocița, nevasta lui Lapidot."
     },
     {
-      "id": "hard-12",
-      "number": 12,
+      "id": "hard-21",
+      "number": 21,
       "question": "Cum se numea femeia filisteancă pentru care Samson și-a pierdut puterea?",
       "answer": "Dalila",
       "reference": "Judecători 16:4",
       "quote": "După aceea, a iubit pe o femeie în valea Sorec. Ea se numea Dalila."
     },
     {
-      "id": "hard-13",
-      "number": 13,
+      "id": "hard-22",
+      "number": 22,
+      "question": "Cum se numea cumnata lui Naomi care s-a întors la poporul ei?",
+      "answer": "Orpa",
+      "reference": "Rut 1:14",
+      "quote": "Și ele au ridicat glasul și iarăși au plâns. Orpa a sărutat pe soacra sa și a plecat, dar Rut s-a ținut de ea."
+    },
+    {
+      "id": "hard-23",
+      "number": 23,
       "question": "Cum se numea preotul care l-a crescut pe Samuel la cortul întâlnirii?",
       "answer": "Eli",
       "reference": "1 Samuel 1:25",
-      "quote": "Au înjunghiat juncii și au dus copilul la Eli."
+      "quote": "Au înjunghiat taurii și au dus copilul la Eli."
     },
     {
-      "id": "hard-14",
-      "number": 14,
+      "id": "hard-24",
+      "number": 24,
       "question": "Cum se numea cel mai bun prieten al lui David, fiul împăratului Saul?",
       "answer": "Ionatan",
       "reference": "1 Samuel 18:1",
-      "quote": "David sfârșise de vorbit cu Saul. Și de atunci sufletul lui Ionatan s-a alipit de sufletul lui David, și Ionatan l-a iubit ca pe sufletul lui."
+      "quote": "David sfârșise de vorbit cu Saul. Și de atunci sufletul lui Ionatan s-a alipit de sufletul lui David, și Ionatan l-a iubit ca pe sufletul din el."
     },
     {
-      "id": "hard-15",
-      "number": 15,
+      "id": "hard-25",
+      "number": 25,
+      "question": "Cine a fost generalul oștirii lui David?",
+      "answer": "Ioab",
+      "reference": "2 Samuel 8:16",
+      "quote": "Ioab, fiul Țeruiei, era mai mare peste oștire."
+    },
+    {
+      "id": "hard-26",
+      "number": 26,
       "question": "Câți ani a domnit David ca împărat (peste Iuda și Israel împreună)?",
       "answer": "40 de ani (7 ani la Hebron peste Iuda, 33 de ani la Ierusalim peste tot Israelul)",
       "reference": "2 Samuel 5:4-5",
       "quote": "David era în vârstă de treizeci de ani când s-a făcut împărat și a domnit patruzeci de ani. La Hebron a domnit peste Iuda șapte ani și șase luni, și la Ierusalim a domnit treizeci și trei de ani peste tot Israelul și Iuda."
     },
     {
-      "id": "hard-16",
-      "number": 16,
+      "id": "hard-27",
+      "number": 27,
       "question": "Cine a fost mama lui Solomon?",
       "answer": "Bat-Șeba",
       "reference": "2 Samuel 12:24",
       "quote": "David a mângâiat pe nevastă-sa Bat-Șeba și a intrat la ea și s-a culcat cu ea. Ea a născut un fiu, pe care l-a numit Solomon, și care a fost iubit de Domnul."
     },
     {
-      "id": "hard-17",
-      "number": 17,
+      "id": "hard-28",
+      "number": 28,
+      "question": "Cum se numea proorocul care l-a mustrat pe David pentru păcatul cu Bat-Șeba?",
+      "answer": "Natan",
+      "reference": "2 Samuel 12:7",
+      "quote": "Și Natan a zis lui David: «Tu ești omul acesta! Așa vorbește Domnul Dumnezeul lui Israel: ‹Eu te-am uns împărat peste Israel...›»"
+    },
+    {
+      "id": "hard-29",
+      "number": 29,
+      "question": "Cum se numea fiul lui David care s-a răsculat împotriva lui și a încercat să-i ia tronul?",
+      "answer": "Absalom",
+      "reference": "2 Samuel 15:10",
+      "quote": "Absalom a trimis iscoade în toate semințiile lui Israel, să spună: «Când veți auzi sunetul trâmbiței, să ziceți: ‹Absalom s-a făcut împărat la Hebron.›»"
+    },
+    {
+      "id": "hard-30",
+      "number": 30,
+      "question": "Cum se numea preotul care l-a uns pe Solomon ca împărat?",
+      "answer": "Țadoc",
+      "reference": "1 Împărați 1:39",
+      "quote": "Preotul Țadoc a luat cornul cu untdelemn din cort și a uns pe Solomon. Au sunat din trâmbiță și tot poporul a zis: «Trăiască împăratul Solomon!»"
+    },
+    {
+      "id": "hard-31",
+      "number": 31,
+      "question": "Cum se numea preotul care l-a sfătuit și protejat pe împăratul-copil Ioas?",
+      "answer": "Iehoiada",
+      "reference": "2 Împărați 12:2",
+      "quote": "Ioas a făcut ce este plăcut înaintea Domnului în tot timpul cât a urmat îndrumările preotului Iehoiada."
+    },
+    {
+      "id": "hard-32",
+      "number": 32,
+      "question": "Cum se numește valea unde Iosafat și-a învins dușmanii prin laudă?",
+      "answer": "Valea Beraca (Valea Binecuvântării)",
+      "reference": "2 Cronici 20:26",
+      "quote": "A patra zi, s-au strâns în valea Beraca, unde au binecuvântat pe Domnul; de aceea au numit locul acesta valea Beraca, nume care i-a rămas până în ziua de azi."
+    },
+    {
+      "id": "hard-33",
+      "number": 33,
       "question": "Cine a fost soția împăratului Ahab, care l-a urmărit pe proorocul Ilie?",
       "answer": "Izabela",
       "reference": "1 Împărați 19:1-2",
-      "quote": "Ahab a istorisit Izabelei tot ce făcuse Ilie și cum ucisese cu sabia pe toți prorocii. Izabela a trimis un sol la Ilie, să-i spună: «Să mă pedepsească zeii cu toată asprimea lor, dacă mâine, la ceasul acesta, nu voi face cu viața ta ce ai făcut tu cu viața fiecăruia din ei.»"
+      "quote": "Ahab a spus Izabelei tot ce făcuse Ilie și cum ucisese cu sabia pe toți prorocii. Izabela a trimis un sol la Ilie, să-i spună: „Să mă pedepsească zeii cu toată asprimea lor, dacă mâine, la ceasul acesta, nu voi face cu viața ta ce ai făcut tu cu viața fiecăruia din ei.”"
     },
     {
-      "id": "hard-18",
-      "number": 18,
+      "id": "hard-34",
+      "number": 34,
+      "question": "Câți proroci ai lui Baal i-a chemat Ilie să se înfrunte cu el pe Muntele Carmel?",
+      "answer": "Patru sute cincizeci (450)",
+      "reference": "1 Împărați 18:22",
+      "quote": "Și Ilie a zis poporului: „Eu singur am rămas din prorocii Domnului, pe când proroci ai lui Baal sunt patru sute cincizeci."
+    },
+    {
+      "id": "hard-35",
+      "number": 35,
       "question": "Care prooroc a primit poruncă de la Dumnezeu să-și ia o curvă de nevastă, ca semn pentru Israel?",
       "answer": "Osea",
       "reference": "Osea 1:2",
       "quote": "Întâia dată când a vorbit Domnul către Osea, Domnul a zis lui Osea: «Du-te și ia-ți o nevastă curvă și copii din curvie; căci țara a săvârșit o mare curvie, părăsind pe Domnul!»"
     },
     {
-      "id": "hard-19",
-      "number": 19,
+      "id": "hard-36",
+      "number": 36,
+      "question": "Care prooroc a profețit despre intrarea triumfală a lui Mesia pe un măgăruș?",
+      "answer": "Zaharia",
+      "reference": "Zaharia 9:9",
+      "quote": "Saltă de veselie, fiica Sionului! Strigă de bucurie, fiica Ierusalimului! Iată că Împăratul tău vine la tine; El este neprihănit și biruitor, smerit și călare pe un măgar, pe un mânz, pe mânzul unei măgărițe."
+    },
+    {
+      "id": "hard-37",
+      "number": 37,
       "question": "Care prooroc a fost coborât într-o groapă cu noroi pentru proorociile sale?",
       "answer": "Ieremia",
       "reference": "Ieremia 38:6",
-      "quote": "Atunci, ei au luat pe Ieremia și l-au aruncat în groapa lui Malchia, fiul împăratului... Au pogorât pe Ieremia în groapă cu funii. În groapă nu era apă, dar era noroi; și Ieremia s-a afundat în noroi."
+      "quote": "Atunci ei au luat pe Ieremia și l-au aruncat în groapa lui Malchia, fiul împăratului, care se afla în curtea temniței, și au coborât în ea pe Ieremia cu funii. În groapă nu era apă, dar era noroi; și Ieremia s-a afundat în noroi."
     },
     {
-      "id": "hard-20",
-      "number": 20,
-      "question": "Cum se numea Daniel în limba babiloniană?",
-      "answer": "Beltșațar",
-      "reference": "Daniel 1:7",
-      "quote": "Căpetenia famenilor le-a pus însă alte nume, și anume: lui Daniel i-a pus numele Beltșațar; lui Hanania, Șadrac; lui Mișael, Meșac; și lui Azaria, Abed-Nego."
+      "id": "hard-38",
+      "number": 38,
+      "question": "Cum se numea cărturarul care a scris în carte proorociile lui Ieremia după dictarea acestuia?",
+      "answer": "Baruc, fiul lui Neriia",
+      "reference": "Ieremia 36:4",
+      "quote": "Ieremia a chemat pe Baruc, fiul lui Neriia; și Baruc a scris într-o carte, după cum spunea Ieremia, toate cuvintele pe care le spusese lui Ieremia, Domnul."
     },
     {
-      "id": "hard-21",
-      "number": 21,
-      "question": "Care erau numele evreiești ale celor trei prieteni ai lui Daniel (Șadrac, Meșac și Abed-Nego)?",
-      "answer": "Hanania, Mișael și Azaria",
-      "reference": "Daniel 1:6-7",
-      "quote": "Printre ei erau, dintre copiii lui Iuda: Daniel, Hanania, Mișael și Azaria. Căpetenia famenilor le-a pus însă alte nume..."
-    },
-    {
-      "id": "hard-22",
-      "number": 22,
-      "question": "Cum se numea împăratul persan din vremea Esterei?",
-      "answer": "Ahașveroș (cunoscut în istorie ca Xerxes)",
-      "reference": "Estera 1:1",
-      "quote": "Era pe vremea lui Ahașveroș, al acelui Ahașveroș care domnea de la India până în Etiopia, peste o sută douăzeci și șapte de ținuturi."
-    },
-    {
-      "id": "hard-23",
-      "number": 23,
-      "question": "Cine era ruda care a crescut-o pe Estera ca pe propria fiică?",
-      "answer": "Mardoheu (vărul ei, fiul unchiului ei)",
-      "reference": "Estera 2:7",
-      "quote": "El crescuse pe Hadasa, adică Estera, fata unchiului său; căci ea n-avea nici tată, nici mamă... La moartea tatălui și a mamei sale, Mardoheu o luase de suflet."
-    },
-    {
-      "id": "hard-24",
-      "number": 24,
-      "question": "Cine a fost dușmanul evreilor care a complotat să-i nimicească, în cartea Estera?",
-      "answer": "Haman (Agaghitul)",
-      "reference": "Estera 3:1",
-      "quote": "După aceste lucruri, împăratul Ahașveroș a ridicat la putere pe Haman, fiul lui Hamedata, agaghitul. I-a dat un loc mai înalt decât al tuturor căpeteniilor care erau lângă el."
-    },
-    {
-      "id": "hard-25",
-      "number": 25,
-      "question": "Ce i-a spus soția lui Iov în mijlocul suferinței sale?",
-      "answer": "„Blestemă pe Dumnezeu și mori!”",
-      "reference": "Iov 2:9",
-      "quote": "Nevastă-sa i-a zis: «Tu rămâi neclintit în neprihănirea ta! Blestemă pe Dumnezeu și mori!»"
-    },
-    {
-      "id": "hard-26",
-      "number": 26,
-      "question": "Care erau numele celor trei prieteni ai lui Iov?",
-      "answer": "Elifaz din Teman, Bildad din Șuah și Țofar din Naama",
-      "reference": "Iov 2:11",
-      "quote": "Trei prieteni ai lui Iov, Elifaz din Teman, Bildad din Șuah și Țofar din Naama, au aflat de toate nenorocirile care-l loviseră. S-au sfătuit și au plecat de acasă să se ducă să-i plângă de milă și să-l mângâie."
-    },
-    {
-      "id": "hard-27",
-      "number": 27,
-      "question": "Care înger a fost trimis să vestească Mariei nașterea lui Isus?",
-      "answer": "Îngerul Gavril",
-      "reference": "Luca 1:26-27",
-      "quote": "În luna a șasea, îngerul Gavril a fost trimis de Dumnezeu într-o cetate din Galileea, numită Nazaret, la o fecioară logodită cu un bărbat numit Iosif, din casa lui David. Numele fecioarei era Maria."
-    },
-    {
-      "id": "hard-28",
-      "number": 28,
-      "question": "Cine a fost marele preot care L-a judecat pe Isus în noaptea prinderii Sale?",
-      "answer": "Caiafa",
-      "reference": "Matei 26:57",
-      "quote": "Cei ce au prins pe Isus L-au dus la marele preot Caiafa, unde erau adunați cărturarii și bătrânii."
-    },
-    {
-      "id": "hard-29",
-      "number": 29,
-      "question": "Cine a fost ales prin sorți să-l înlocuiască pe Iuda Iscarioteanul printre cei doisprezece apostoli?",
-      "answer": "Matia",
-      "reference": "Faptele Apostolilor 1:26",
-      "quote": "Au tras la sorți, și sorțul a căzut pe Matia, care a fost numărat împreună cu cei unsprezece apostoli."
-    },
-    {
-      "id": "hard-30",
-      "number": 30,
-      "question": "În ce oraș s-a născut apostolul Pavel?",
-      "answer": "Tars din Cilicia",
-      "reference": "Faptele Apostolilor 22:3",
-      "quote": "Eu sunt iudeu, născut în Tarsul Ciliciei, dar am fost crescut în cetatea aceasta, am învățat la picioarele lui Gamaliel să cunosc cu de-amănuntul Legea părinților noștri."
-    },
-    {
-      "id": "hard-31",
-      "number": 31,
-      "question": "Cum se numea sclavul fugar pentru care apostolul Pavel a scris o întreagă epistolă stăpânului său?",
-      "answer": "Onisim (stăpânul era Filimon)",
-      "reference": "Filimon 1:10",
-      "quote": "Te rog pentru copilul meu pe care l-am născut în lanțurile mele: pentru Onisim."
-    },
-    {
-      "id": "hard-32",
-      "number": 32,
-      "question": "Care erau numele celor șapte biserici din Asia, cărora le-a fost adresată cartea Apocalipsa?",
-      "answer": "Efes, Smirna, Pergam, Tiatira, Sardes, Filadelfia și Laodicea",
-      "reference": "Apocalipsa 1:11",
-      "quote": "«Eu sunt Alfa și Omega, Cel dintâi și Cel de pe urmă. Ce vezi, scrie într-o carte și trimite-o celor șapte Biserici: la Efes, Smirna, Pergam, Tiatira, Sardes, Filadelfia și Laodiceea.»"
-    },
-    {
-      "id": "hard-33",
-      "number": 33,
-      "question": "Cum se numea vameșul chemat de Isus să-I fie ucenic, autorul primei Evanghelii?",
-      "answer": "Matei (numit și Levi)",
-      "reference": "Matei 9:9",
-      "quote": "De acolo, Isus a mers mai departe și a văzut pe un om, numit Matei, șezând la vamă. Și i-a zis: «Vino după Mine!» Omul acela s-a sculat și a mers după El."
-    },
-    {
-      "id": "hard-34",
-      "number": 34,
-      "question": "Care ucenic era numit „cel pe care îl iubea Isus”?",
-      "answer": "Apostolul Ioan",
-      "reference": "Ioan 13:23",
-      "quote": "Unul din ucenici, acela pe care-l iubea Isus, stătea la masă culcat pe sânul lui Isus."
-    },
-    {
-      "id": "hard-35",
-      "number": 35,
-      "question": "Cum se numea guvernatorul roman care a încuviințat răstignirea lui Isus?",
-      "answer": "Pilat din Pont",
-      "reference": "Matei 27:2",
-      "quote": "După ce L-au legat, L-au dus și L-au dat în mâna dregătorului Pilat din Pont."
-    },
-    {
-      "id": "hard-36",
-      "number": 36,
+      "id": "hard-39",
+      "number": 39,
       "question": "Care prooroc a avut o vedenie cu o vale plină de oase uscate care prind viață?",
       "answer": "Ezechiel",
       "reference": "Ezechiel 37:1",
       "quote": "Mâna Domnului a venit peste mine și m-a luat în Duhul Domnului și m-a pus în mijlocul unei văi pline de oase."
     },
     {
-      "id": "hard-37",
-      "number": 37,
+      "id": "hard-40",
+      "number": 40,
+      "question": "Care prooroc a fost dus în vedenie la Ierusalim pentru a vedea idolatria din Templu?",
+      "answer": "Ezechiel",
+      "reference": "Ezechiel 8:3",
+      "quote": "El a întins ceva ca o mână și m-a apucat de zulufii capului. Duhul m-a răpit între pământ și cer și m-a dus, în vedenii dumnezeiești, la Ierusalim, la ușa porții de la curtea dinăuntru, care caută spre miazănoapte, unde era"
+    },
+    {
+      "id": "hard-41",
+      "number": 41,
+      "question": "Cum se numea Daniel în limba babiloniană?",
+      "answer": "Beltșațar",
+      "reference": "Daniel 1:7",
+      "quote": "Căpetenia famenilor dregători le-a pus însă alte nume, și anume: lui Daniel i-a pus numele Beltșațar, lui Hanania, Șadrac, lui Mișael, Meșac, și lui Azaria, Abed-Nego."
+    },
+    {
+      "id": "hard-42",
+      "number": 42,
+      "question": "Care erau numele evreiești ale celor trei prieteni ai lui Daniel (Șadrac, Meșac și Abed-Nego)?",
+      "answer": "Hanania, Mișael și Azaria",
+      "reference": "Daniel 1:6-7",
+      "quote": "Printre ei erau, dintre copiii lui Iuda: Daniel, Hanania, Mișael și Azaria. Căpetenia famenilor dregători le-a pus însă alte nume, și anume:"
+    },
+    {
+      "id": "hard-43",
+      "number": 43,
+      "question": "Cum se numea împăratul persan din vremea Esterei?",
+      "answer": "Ahașveroș (cunoscut în istorie ca Xerxes)",
+      "reference": "Estera 1:1",
+      "quote": "Era pe vremea lui Ahașveroș, al acelui Ahașveroș care domnea de la India până în Etiopia, peste o sută douăzeci și șapte de ținuturi."
+    },
+    {
+      "id": "hard-44",
+      "number": 44,
+      "question": "Cine era ruda care a crescut-o pe Estera ca pe propria fiică?",
+      "answer": "Mardoheu (vărul ei, fiul unchiului ei)",
+      "reference": "Estera 2:7",
+      "quote": "El creștea pe Hadasa, adică Estera, fata unchiului său; căci ea n-avea nici tată, nici mamă. Fata era frumoasă la statură și plăcută la vedere. După moartea tatălui și a mamei sale, Mardoheu o luase de suflet."
+    },
+    {
+      "id": "hard-45",
+      "number": 45,
+      "question": "Cine a fost dușmanul evreilor care a complotat să-i nimicească, în cartea Estera?",
+      "answer": "Haman (Agaghitul)",
+      "reference": "Estera 3:1",
+      "quote": "După aceste lucruri, împăratul Ahașveroș a ridicat la putere pe Haman, fiul lui Hamedata, agaghitul. L-a ridicat în cinste și a pus scaunul lui mai presus de scaunele tuturor căpeteniilor care erau lângă el."
+    },
+    {
+      "id": "hard-46",
+      "number": 46,
       "question": "Cine a citit Cartea Legii înaintea poporului după întoarcerea din robia babiloniană?",
       "answer": "Cărturarul Ezra",
       "reference": "Neemia 8:2-3",
-      "quote": "Și preotul Ezra a adus Legea înaintea adunării, alcătuită din bărbați și femei, și din toți cei ce erau în stare s-o înțeleagă... A citit-o de dimineață până la amiază."
+      "quote": "Și preotul Ezra a adus Legea înaintea adunării, alcătuită din bărbați și femei și din toți cei ce erau în stare s-o înțeleagă. Era întâia zi a lunii a șaptea. Ezra a citit în carte de dimineață până la amiază..."
     },
     {
-      "id": "hard-38",
-      "number": 38,
+      "id": "hard-47",
+      "number": 47,
       "question": "Care este ultima carte a Vechiului Testament și ultimul prooroc înainte de tăcerea de patru sute de ani?",
       "answer": "Maleahi",
       "reference": "Maleahi 1:1",
-      "quote": "Proorocia, Cuvântul Domnului către Israel, prin Maleahi."
+      "quote": "Prorocia, cuvântul Domnului, către Israel, prin Maleahi:"
     },
     {
-      "id": "hard-39",
-      "number": 39,
-      "question": "Câți ani au rătăcit israeliții prin pustie înainte de a intra în Țara Promisă?",
-      "answer": "Patruzeci de ani",
-      "reference": "Numeri 14:33-34",
-      "quote": "Și copiii voștri vor paște patruzeci de ani în pustie și vor ispăși astfel păcatele voastre... Patruzeci de zile ați iscodit țara; pe tot atâția ani, câte o zi pentru fiecare, vă veți purta pedeapsa fărădelegilor voastre, adică patruzeci de ani."
+      "id": "hard-48",
+      "number": 48,
+      "question": "Ce i-a spus soția lui Iov în mijlocul suferinței sale?",
+      "answer": "„Blestemă pe Dumnezeu și mori!”",
+      "reference": "Iov 2:9",
+      "quote": "Nevastă-sa i-a zis: «Tu rămâi neclintit în neprihănirea ta! Blestemă pe Dumnezeu și mori!»"
     },
     {
-      "id": "hard-40",
-      "number": 40,
-      "question": "Cum se numea fratele Mariei și al Martei din Betania, pe care Isus l-a înviat din morți?",
-      "answer": "Lazăr",
-      "reference": "Ioan 11:1-2",
-      "quote": "Un oarecare Lazăr din Betania, satul Mariei și al Martei, sora ei, era bolnav. Maria era aceea care a uns pe Domnul cu mir și I-a șters picioarele cu părul ei, și Lazăr cel bolnav era fratele ei."
+      "id": "hard-49",
+      "number": 49,
+      "question": "Care erau numele celor trei prieteni ai lui Iov?",
+      "answer": "Elifaz din Teman, Bildad din Șuah și Țofar din Naama",
+      "reference": "Iov 2:11",
+      "quote": "Trei prieteni ai lui Iov, Elifaz din Teman, Bildad din Șuah și Țofar din Naama, au aflat de toate nenorocirile care-l loviseră. S-au sfătuit și au plecat de acasă să se ducă să-i plângă de milă și să-l mângâie."
+    },
+    {
+      "id": "hard-50",
+      "number": 50,
+      "question": "Câți copii a primit Iov după restaurare?",
+      "answer": "Zece (șapte fii și trei fiice)",
+      "reference": "Iov 42:13",
+      "quote": "A avut șapte fii și trei fete."
+    },
+    {
+      "id": "hard-51",
+      "number": 51,
+      "question": "Ce cuvinte aramaice a folosit Isus când a înviat-o pe fiica lui Iair?",
+      "answer": "„Talita, cumi” (în traducere: „Fetițo, scoală-te!”)",
+      "reference": "Marcu 5:41",
+      "quote": "A apucat-o de mână și i-a zis: „Talita, cumi”, care tălmăcit înseamnă: „Fetițo, scoală-te îți zic!”"
+    },
+    {
+      "id": "hard-52",
+      "number": 52,
+      "question": "Cine a fost marele preot care L-a judecat pe Isus în noaptea prinderii Sale?",
+      "answer": "Caiafa",
+      "reference": "Matei 26:57",
+      "quote": "Cei ce au prins pe Isus L-au dus la marele preot Caiafa, unde erau adunați cărturarii și bătrânii."
+    },
+    {
+      "id": "hard-53",
+      "number": 53,
+      "question": "Cum se numea vameșul chemat de Isus să-I fie ucenic, autorul primei Evanghelii?",
+      "answer": "Matei (numit și Levi)",
+      "reference": "Matei 9:9",
+      "quote": "De acolo, Isus a mers mai departe și a văzut pe un om, numit Matei, șezând la vamă. Și i-a zis: «Vino după Mine!» Omul acela s-a sculat și a mers după El."
+    },
+    {
+      "id": "hard-54",
+      "number": 54,
+      "question": "Cum se numea câmpul cumpărat cu cei treizeci de arginți ai lui Iuda Iscarioteanul?",
+      "answer": "Acheldama (Țarina sângelui)",
+      "reference": "Faptele Apostolilor 1:18-19",
+      "quote": "Omul acesta a dobândit un ogor cu plata nelegiuirii lui, a căzut... Lucrul acesta a ajuns așa de cunoscut de toți locuitorii din Ierusalim, încât ogorul acela a fost numit în limba lor: «Acheldama», adică: «Ogorul sângelui.»"
+    },
+    {
+      "id": "hard-55",
+      "number": 55,
+      "question": "Cine a fost ales prin sorți să-l înlocuiască pe Iuda Iscarioteanul printre cei doisprezece apostoli?",
+      "answer": "Matia",
+      "reference": "Faptele Apostolilor 1:26",
+      "quote": "Au tras la sorți, și sorțul a căzut pe Matia, care a fost numărat împreună cu cei unsprezece apostoli."
+    },
+    {
+      "id": "hard-56",
+      "number": 56,
+      "question": "În ce oraș s-a născut apostolul Pavel?",
+      "answer": "Tars din Cilicia",
+      "reference": "Faptele Apostolilor 22:3",
+      "quote": "Eu sunt iudeu, născut în Tarsul Ciliciei, dar am fost crescut în cetatea aceasta, am învățat la picioarele lui Gamaliel să cunosc cu de-amănuntul Legea părinților noștri."
+    },
+    {
+      "id": "hard-57",
+      "number": 57,
+      "question": "Cum se numea sclavul fugar pentru care apostolul Pavel a scris o întreagă epistolă stăpânului său?",
+      "answer": "Onisim (stăpânul era Filimon)",
+      "reference": "Filimon 1:10",
+      "quote": "Te rog pentru copilul meu pe care l-am născut în lanțurile mele: pentru Onisim."
+    },
+    {
+      "id": "hard-58",
+      "number": 58,
+      "question": "Care a fost primul centurion roman convertit la creștinism?",
+      "answer": "Corneliu",
+      "reference": "Faptele Apostolilor 10:1",
+      "quote": "În Cezareea era un om cu numele Corneliu, sutaș din ceata de ostași numită «Italiana»."
+    },
+    {
+      "id": "hard-59",
+      "number": 59,
+      "question": "Câte fete fecioare prooroceau în casa lui Filip evanghelistul?",
+      "answer": "Patru",
+      "reference": "Faptele Apostolilor 21:9",
+      "quote": "El avea patru fete fecioare care proroceau."
+    },
+    {
+      "id": "hard-60",
+      "number": 60,
+      "question": "Care erau numele celor șapte biserici din Asia, cărora le-a fost adresată cartea Apocalipsa?",
+      "answer": "Efes, Smirna, Pergam, Tiatira, Sardes, Filadelfia și Laodicea",
+      "reference": "Apocalipsa 1:11",
+      "quote": "«Eu sunt Alfa și Omega, Cel dintâi și Cel de pe urmă. Ce vezi, scrie într-o carte și trimite-o celor șapte Biserici: la Efes, Smirna, Pergam, Tiatira, Sardes, Filadelfia și Laodiceea.»"
     }
   ]
 };

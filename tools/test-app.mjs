@@ -582,6 +582,77 @@ test('CANCEL_QUESTION returns question to pool', () => {
 });
 
 // =================================================================
+suite('Question discard (host-rejection — drop bad question permanently)');
+// =================================================================
+
+test('DISCARD_QUESTION clears pendingQuestion', () => {
+  const ctx = setup([['A', 'carbonara'], ['B', 'carbonara']]);
+  ctx.dispatch({ type: 'PICK_QUESTION', playerId: ctx.state.players[0].id, difficulty: 'easy' });
+  ctx.dispatch({ type: 'DISCARD_QUESTION' });
+  eq(ctx.state.pendingQuestion, null, 'Pending cleared');
+});
+
+test('DISCARD_QUESTION leaves qId in usedQuestionIds (vs cancel which removes)', () => {
+  const ctx = setup([['A', 'carbonara'], ['B', 'carbonara']]);
+  ctx.dispatch({ type: 'PICK_QUESTION', playerId: ctx.state.players[0].id, difficulty: 'easy' });
+  const qId = ctx.state.pendingQuestion.qId;
+  ctx.dispatch({ type: 'DISCARD_QUESTION' });
+  assert(ctx.state.usedQuestionIds.includes(qId), 'qId still marked used');
+});
+
+test('DISCARD_QUESTION adds no entry to player log', () => {
+  const ctx = setup([['A', 'carbonara'], ['B', 'carbonara']]);
+  ctx.dispatch({ type: 'PICK_QUESTION', playerId: ctx.state.players[0].id, difficulty: 'easy' });
+  ctx.dispatch({ type: 'DISCARD_QUESTION' });
+  eq(ctx.state.players[0].log.length, 0, 'Log empty');
+});
+
+test('DISCARD_QUESTION does not change player score', () => {
+  const ctx = setup([['A', 'carbonara'], ['B', 'carbonara']]);
+  ctx.dispatch({ type: 'PICK_QUESTION', playerId: ctx.state.players[0].id, difficulty: 'easy' });
+  ctx.dispatch({ type: 'DISCARD_QUESTION' });
+  eq(ctx.state.players[0].score, 0, 'Score unchanged');
+});
+
+test('After discard, same player can still pick another question this round', () => {
+  const ctx = setup([['A', 'carbonara'], ['B', 'carbonara']]);
+  const id = ctx.state.players[0].id;
+  ctx.dispatch({ type: 'PICK_QUESTION', playerId: id, difficulty: 'easy' });
+  ctx.dispatch({ type: 'DISCARD_QUESTION' });
+  ctx.dispatch({ type: 'PICK_QUESTION', playerId: id, difficulty: 'medium' });
+  assert(ctx.state.pendingQuestion !== null, 'Per-round quota intact after discard');
+});
+
+test('Discarded qId never picked again (drain check)', () => {
+  const ctx = setup([['A', 'carbonara'], ['B', 'carbonara']], 8);
+  const id = ctx.state.players[0].id;
+  ctx.dispatch({ type: 'PICK_QUESTION', playerId: id, difficulty: 'easy' });
+  const discardedId = ctx.state.pendingQuestion.qId;
+  ctx.dispatch({ type: 'DISCARD_QUESTION' });
+  // Drain remaining easy pool by alternating players + rounds
+  let safety = 200;
+  while (safety-- > 0) {
+    const playerIdx = (safety % 2);
+    ctx.dispatch({
+      type: 'PICK_QUESTION',
+      playerId: ctx.state.players[playerIdx].id,
+      difficulty: 'easy',
+    });
+    if (!ctx.state.pendingQuestion) break;
+    assert(ctx.state.pendingQuestion.qId !== discardedId, `${ctx.state.pendingQuestion.qId} ≠ discarded ${discardedId}`);
+    ctx.dispatch({ type: 'ANSWER_QUESTION', correct: true });
+    if (ctx.state.players[playerIdx].log.filter(e => e.round === ctx.state.currentRound && (e.type === 'correct' || e.type === 'wrong')).length > 0) {
+      // Both players answered → end round
+      const otherIdx = 1 - playerIdx;
+      const otherAnswered = ctx.state.players[otherIdx].log.some(e => e.round === ctx.state.currentRound && (e.type === 'correct' || e.type === 'wrong'));
+      if (otherAnswered) ctx.dispatch({ type: 'END_ROUND' });
+      if (ctx.state.phase === 'reveal') break;
+    }
+  }
+  assert(safety > 0, 'Drain loop terminated normally');
+});
+
+// =================================================================
 suite('Tiebreaker (rule: tied players, 1 sudden-death Hard, first correct wins)');
 // =================================================================
 

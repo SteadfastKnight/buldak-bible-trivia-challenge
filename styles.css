@@ -159,6 +159,8 @@ section h2 {
 }
 .ghost:hover { background: #2b1818; color: #fff; }
 .ghost.small { padding: 6px 10px; min-height: 36px; font-size: 13px; }
+.ghost.warn { color: #ffba50; border-color: #5a3e0e; }
+.ghost.warn:hover { background: #5a3e0e; color: #fff; }
 .danger-text { color: #ff8060; }
 
 .success {

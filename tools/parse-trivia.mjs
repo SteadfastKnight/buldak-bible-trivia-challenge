@@ -59,9 +59,7 @@ const trivia = {
 };
 
 for (const [k, arr] of Object.entries(trivia)) {
-  if (arr.length !== 40) {
-    console.warn(`WARN: ${k} has ${arr.length} questions (expected 40)`);
-  }
+  console.log(`  ${k}: ${arr.length} questions`);
   for (const q of arr) {
     if (!q.question || !q.answer) {
       console.warn(`WARN: ${q.id} missing data:`, q);

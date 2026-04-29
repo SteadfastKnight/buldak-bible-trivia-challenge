@@ -1,6 +1,6 @@
 # 🔥📖 Buldak Bible Trivia Challenge
 
-Scorekeeper app for a one-night party game: spicy noodles + Romanian Bible trivia. Tracks hidden scores, applies the 3× spicy multiplier, serves random questions from a 120-question bank, and survives crashes + device switches.
+Scorekeeper app for a one-night party game: spicy noodles + Romanian Bible trivia. Tracks hidden scores, applies the 3× spicy multiplier, serves random questions from a 180-question bank (60 each Easy/Medium/Hard), and survives crashes + device switches.
 
 ## Run
 
@@ -20,6 +20,45 @@ Scorekeeper app for a one-night party game: spicy noodles + Romanian Bible trivi
 
 ```bash
 node tools/parse-trivia.mjs
+```
+
+## Verifying verse authenticity (VDCC)
+
+The trivia uses the **Versiunea Dumitru Cornilescu Corectată (VDCC)**. To audit each `Referință` against the actual VDCC text:
+
+**1. One-time bootstrap** — clone the source Bible into the gitignored cache:
+
+```bash
+git clone --depth 1 https://github.com/seven1m/open-bibles .bible/open-bibles
+```
+
+(Optional fallback for the older 1924 Cornilescu, used automatically if the RCCV file isn't found:
+`git clone --depth 1 https://github.com/thiagobodruk/bible .bible/thiagobodruk`)
+
+**2. Run the audit** — produces `docs/verse-audit.md` (gitignored):
+
+```bash
+node tools/verify-verses.mjs
+# Add --show-near to also flag entries that match VDCC by ≥85% word-overlap
+# (typically ellipsis splices). Default only flags partial / mismatch / broken-ref.
+```
+
+Verdicts: `✓ exact` (verbatim), `~ contains` (quote is substring of verse), `~ near` (ellipsis-split, all words from VDCC), `⚠ partial`, `✗ mismatch`, `✗ broken-ref`. Anything in the last three needs human review. Run exits non-zero if any are present.
+
+**3. Auto-fix drift** — if the audit shows non-trivial drift after edits, run:
+
+```bash
+node tools/fix-quotes.mjs
+```
+
+This rewrites every quote that isn't already verbatim/substring of VDCC. Re-run the audit after to confirm. Ellipsis splices that get awkwardly truncated by the auto-fixer need a manual touch.
+
+**4. Spot-check any verse** — useful when reviewing a specific reference:
+
+```bash
+node tools/lookup.mjs Geneza 1 1
+node tools/lookup.mjs "1 Imparati" 6 9
+node tools/lookup.mjs Numeri 14 33 34   # range
 ```
 
 ## Game rules
