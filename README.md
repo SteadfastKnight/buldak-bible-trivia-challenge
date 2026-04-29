@@ -65,6 +65,25 @@ node tools/lookup.mjs Numeri 14 33 34   # range
 
 See [`docs/rules/Buldak Bible Trivia Challenge.md`](docs/rules/Buldak%20Bible%20Trivia%20Challenge.md). Player cards in `docs/rules/`.
 
+## Printing the player cards (A6)
+
+Two A6 player cards (Carbonara + 2× Picant) live in `docs/rules/cards.html`. Build the PDF with:
+
+```bash
+node tools/build-cards.mjs
+```
+
+Renders `docs/rules/cards.pdf` at exact A6 (105×148 mm). Drives a headless Edge / Chrome via the Chrome DevTools Protocol — no extra installs beyond a Chromium-based browser. (WeasyPrint was the original target but its Windows install needs the GTK runtime; Edge is already there.)
+
+PNG previews (300 DPI): `docs/rules/card-carbonara.png`, `docs/rules/card-spicy.png`. Regenerate with:
+
+```bash
+pdftoppm -r 300 -png docs/rules/cards.pdf docs/rules/card
+# then rename card-1.png → card-carbonara.png, card-2.png → card-spicy.png
+```
+
+To print: open the PDF, choose "actual size" (not "fit to page") so A6 stays A6.
+
 ## Stack
 
 Vanilla HTML/CSS/JS, zero dependencies, no build step. The only runtime requirement is a modern browser; the only dev requirement is Node (for the trivia parser).

@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="UTF-8">
+<title>Buldak Bible Trivia — Carduri Jucător</title>
+<style>
+  @page { size: A6; margin: 0; }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html, body {
+    font-family: "Georgia", "Times New Roman", serif;
+    font-size: 8pt;
+    line-height: 1.3;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .card {
+    width: 105mm;
+    height: 148mm;
+    padding: 5.5mm 6mm 5mm;
+    page-break-after: always;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+  .card:last-child { page-break-after: auto; }
+
+  /* ===== Carbonara — warm cream / gold ===== */
+  .carbonara {
+    background:
+      radial-gradient(circle at 0% 0%, #fff6df 0%, transparent 55%),
+      radial-gradient(circle at 100% 100%, #f6e3b8 0%, transparent 60%),
+      #fdf6e6;
+    color: #3d2c12;
+  }
+  .carbonara .header { border-bottom: 1.5pt solid #b8902a; }
+  .carbonara .icon { color: #b8902a; }
+  .carbonara .subtitle { color: #8a6a1f; }
+  .carbonara th { background: #b8902a; color: #fff8e3; }
+  .carbonara tbody tr:nth-child(even) td { background: rgba(184, 144, 42, 0.08); }
+  .carbonara .remember {
+    background: rgba(184, 144, 42, 0.10);
+    border-left: 2.5pt solid #b8902a;
+  }
+  .carbonara .footer { color: #8a6a1f; }
+  .carbonara .corner { color: #b8902a; }
+
+  /* ===== 2x Picant — dark / fire ===== */
+  .spicy {
+    background:
+      radial-gradient(circle at 100% 0%, #5a0e0e 0%, transparent 55%),
+      radial-gradient(circle at 0% 100%, #2a0606 0%, transparent 60%),
+      #1a0303;
+    color: #ffe9d4;
+  }
+  .spicy .header { border-bottom: 1.5pt solid #ff6a1a; }
+  .spicy .icon { color: #ff6a1a; }
+  .spicy .subtitle { color: #ffba50; }
+  .spicy th { background: #ff6a1a; color: #1a0303; }
+  .spicy tbody tr:nth-child(even) td { background: rgba(255, 106, 26, 0.10); }
+  .spicy tbody td { border-bottom: 0.3pt solid rgba(255, 186, 80, 0.20); }
+  .spicy .remember {
+    background: rgba(255, 106, 26, 0.10);
+    border-left: 2.5pt solid #ff6a1a;
+  }
+  .spicy .footer { color: #ffba50; }
+  .spicy .corner { color: #ff6a1a; }
+  .spicy .multiplier {
+    display: inline-block;
+    background: #ff6a1a;
+    color: #1a0303;
+    font-weight: bold;
+    padding: 0 4pt;
+    border-radius: 2pt;
+    margin-left: 3pt;
+  }
+
+  /* ===== Layout ===== */
+  .header {
+    padding-bottom: 2mm;
+    margin-bottom: 2.5mm;
+    text-align: center;
+  }
+  .icon {
+    font-size: 14pt;
+    line-height: 1;
+    margin-bottom: 0.5mm;
+  }
+  h1 {
+    font-size: 11pt;
+    font-weight: normal;
+    letter-spacing: 0.5pt;
+    margin-bottom: 0.3mm;
+  }
+  .subtitle {
+    font-size: 8pt;
+    font-style: italic;
+    letter-spacing: 0.3pt;
+  }
+
+  h2 {
+    font-size: 7pt;
+    text-transform: uppercase;
+    letter-spacing: 1pt;
+    font-weight: bold;
+    margin-bottom: 1mm;
+    margin-top: 2mm;
+  }
+  h2:first-of-type { margin-top: 0; }
+
+  ol {
+    padding-left: 4mm;
+    margin-bottom: 0.5mm;
+    font-size: 7.5pt;
+  }
+  ol li { margin-bottom: 0.2mm; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 7.5pt;
+    margin-bottom: 0.5mm;
+  }
+  th, td {
+    text-align: left;
+    padding: 0.5mm 1.8mm;
+  }
+  th { font-size: 6.5pt; text-transform: uppercase; letter-spacing: 0.5pt; }
+  td.points {
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+    font-weight: bold;
+  }
+
+  .remember {
+    padding: 1.5mm 2mm;
+    font-size: 7pt;
+  }
+  .remember p { margin-bottom: 0.4mm; }
+  .remember p:last-child { margin-bottom: 0; }
+  .remember strong { font-weight: bold; }
+
+  .spacer { flex: 1; min-height: 1mm; }
+
+  .footer {
+    text-align: center;
+    font-style: italic;
+    font-size: 7.5pt;
+    margin-top: 2mm;
+  }
+
+  .corner {
+    position: absolute;
+    top: 2mm;
+    font-size: 6pt;
+    letter-spacing: 1pt;
+    text-transform: uppercase;
+  }
+  .corner.left { left: 3mm; }
+  .corner.right { right: 3mm; }
+</style>
+</head>
+<body>
+
+<!-- ============ CARD 1 — CARBONARA ============ -->
+<section class="card carbonara">
+  <span class="corner left">Buldak</span>
+  <span class="corner right">Bible Trivia</span>
+
+  <header class="header">
+    <div class="icon">🍝</div>
+    <h1>Carbonara</h1>
+    <div class="subtitle">— Standard —</div>
+  </header>
+
+  <h2>Fiecare Rundă</h2>
+  <ol>
+    <li>Mănâncă înghițitura ta</li>
+    <li>Alege opțional o întrebare (sau pasează — fără penalizare)</li>
+    <li>Folosește alinare dacă e nevoie (costă puncte!)</li>
+  </ol>
+
+  <h2>Punctaj</h2>
+  <table>
+    <thead>
+      <tr><th>Acțiune</th><th style="text-align:right">Puncte</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Ușor ✅</td><td class="points">+100</td></tr>
+      <tr><td>Mediu ✅</td><td class="points">+250</td></tr>
+      <tr><td>Greu ✅</td><td class="points">+500</td></tr>
+      <tr><td>Ușor ❌</td><td class="points">−50</td></tr>
+      <tr><td>Mediu ❌</td><td class="points">−100</td></tr>
+      <tr><td>Greu ❌</td><td class="points">−200</td></tr>
+      <tr><td>Apă 💧</td><td class="points">−75</td></tr>
+      <tr><td>Lapte 🥛</td><td class="points">−150</td></tr>
+      <tr><td>Supraviețuiești o rundă</td><td class="points">+50</td></tr>
+    </tbody>
+  </table>
+
+  <h2>Ține Minte</h2>
+  <div class="remember">
+    <p>• Poți <strong>pasa</strong> orice întrebare — fără penalizare</p>
+    <p>• Poți <strong>abandona</strong> oricând — păstrezi punctele</p>
+    <p>• Scorurile sunt <strong>ascunse</strong> până la final</p>
+    <p>• Clasamentul se dezvăluie după <strong>Runda 4</strong></p>
+  </div>
+
+  <div class="spacer"></div>
+  <div class="footer">Mult succes! 📖</div>
+</section>
+
+<!-- ============ CARD 2 — 2x PICANT ============ -->
+<section class="card spicy">
+  <span class="corner left">Buldak</span>
+  <span class="corner right">Bible Trivia</span>
+
+  <header class="header">
+    <div class="icon">🔥</div>
+    <h1>2× Picant</h1>
+    <div class="subtitle">— Multiplicator <span class="multiplier">×3</span> —</div>
+  </header>
+
+  <h2>Fiecare Rundă</h2>
+  <ol>
+    <li>Mănâncă înghițitura ta 🔥</li>
+    <li>Alege opțional o întrebare (sau pasează — fără penalizare)</li>
+    <li>Folosește alinare dacă e nevoie (costă puncte!)</li>
+  </ol>
+
+  <h2>Punctaj (totul ×3)</h2>
+  <table>
+    <thead>
+      <tr><th>Acțiune</th><th style="text-align:right">Puncte</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Ușor ✅</td><td class="points">+300</td></tr>
+      <tr><td>Mediu ✅</td><td class="points">+750</td></tr>
+      <tr><td>Greu ✅</td><td class="points">+1.500</td></tr>
+      <tr><td>Ușor ❌</td><td class="points">−150</td></tr>
+      <tr><td>Mediu ❌</td><td class="points">−300</td></tr>
+      <tr><td>Greu ❌</td><td class="points">−600</td></tr>
+      <tr><td>Apă 💧</td><td class="points">−225</td></tr>
+      <tr><td>Lapte 🥛</td><td class="points">−450</td></tr>
+      <tr><td>Supraviețuiești o rundă</td><td class="points">+50</td></tr>
+    </tbody>
+  </table>
+
+  <h2>Ține Minte</h2>
+  <div class="remember">
+    <p>• Poți <strong>pasa</strong> orice întrebare — fără penalizare</p>
+    <p>• Poți <strong>abandona</strong> oricând — păstrezi punctele</p>
+    <p>• Scorurile sunt <strong>ascunse</strong> până la final</p>
+    <p>• Clasamentul se dezvăluie după <strong>Runda 4</strong></p>
+  </div>
+
+  <div class="spacer"></div>
+  <div class="footer">Ai ales durerea. Asumă-ți-o. 🔥📖</div>
+</section>
+
+</body>
+</html>
